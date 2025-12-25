@@ -379,11 +379,11 @@
     },
     "Tower of Ascension": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-24T23:23:29.111000Z",
+        "acquired": "2025-12-25T04:00:06.626000Z",
         "location": {
             "start": [
                 -400,
@@ -433,11 +433,11 @@
     },
     "Twain Lake": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-24T23:31:33.194000Z",
+        "acquired": "2025-12-25T04:03:16.115000Z",
         "location": {
             "start": [
                 0,
@@ -451,11 +451,11 @@
     },
     "Twain Mansion": {
         "guild": {
-            "uuid": "526e9d4e-74fc-4ee6-9ca5-f1b7add1a83f",
-            "name": "awoohgee geonyeob",
-            "prefix": "wuge"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-24T07:28:48.826000Z",
+        "acquired": "2025-12-25T04:05:18.173000Z",
         "location": {
             "start": [
                 95,
@@ -847,11 +847,11 @@
     },
     "Cinfras": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T03:44:29.013000Z",
+        "acquired": "2025-12-25T04:08:46.513000Z",
         "location": {
             "start": [
                 -534,
@@ -991,11 +991,11 @@
     },
     "Llevigar Farm": {
         "guild": {
-            "uuid": "f24ad871-7e0f-4da2-993d-2dc5320c4077",
-            "name": "Lumberjack",
-            "prefix": "LBJK"
+            "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
+            "name": "Nerfuria",
+            "prefix": "Nia"
         },
-        "acquired": "2025-12-25T02:12:27.352000Z",
+        "acquired": "2025-12-25T03:58:56.743000Z",
         "location": {
             "start": [
                 -1663,
@@ -1009,11 +1009,11 @@
     },
     "Forgotten Path": {
         "guild": {
-            "uuid": "f24ad871-7e0f-4da2-993d-2dc5320c4077",
-            "name": "Lumberjack",
-            "prefix": "LBJK"
+            "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
+            "name": "Nerfuria",
+            "prefix": "Nia"
         },
-        "acquired": "2025-12-25T02:07:19.478000Z",
+        "acquired": "2025-12-25T04:01:03.894000Z",
         "location": {
             "start": [
                 -1603,
@@ -1063,11 +1063,11 @@
     },
     "Path to Cinfras": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-25T03:33:25.574000Z",
+        "acquired": "2025-12-25T03:53:25.998000Z",
         "location": {
             "start": [
                 -734,
@@ -1117,11 +1117,11 @@
     },
     "Entrance to Kander": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T00:15:59.576000Z",
+        "acquired": "2025-12-25T03:49:12.464000Z",
         "location": {
             "start": [
                 -896,
@@ -1189,11 +1189,11 @@
     },
     "Dark Forest Village": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T00:56:39.582000Z",
+        "acquired": "2025-12-25T03:59:50.449000Z",
         "location": {
             "start": [
                 -723,
@@ -1207,11 +1207,11 @@
     },
     "Lexdale": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T00:08:05.832000Z",
+        "acquired": "2025-12-25T03:56:11.769000Z",
         "location": {
             "start": [
                 -650,
@@ -1225,11 +1225,11 @@
     },
     "Fungal Grove": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T00:11:32.362000Z",
+        "acquired": "2025-12-25T03:55:52.623000Z",
         "location": {
             "start": [
                 -489,
@@ -1243,11 +1243,11 @@
     },
     "Decayed Basin": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T00:13:35.490000Z",
+        "acquired": "2025-12-25T03:54:40.799000Z",
         "location": {
             "start": [
                 -471,
@@ -1261,11 +1261,11 @@
     },
     "Heart of Decay": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T00:14:41.281000Z",
+        "acquired": "2025-12-25T03:52:57.925000Z",
         "location": {
             "start": [
                 -598,
@@ -1279,11 +1279,11 @@
     },
     "Mushroom Hill": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T00:41:25.688000Z",
+        "acquired": "2025-12-25T03:50:10.363000Z",
         "location": {
             "start": [
                 -288,
@@ -1315,11 +1315,11 @@
     },
     "Guild Hall": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-25T03:30:17.937000Z",
+        "acquired": "2025-12-25T03:47:45.009000Z",
         "location": {
             "start": [
                 -349,
@@ -1333,11 +1333,11 @@
     },
     "Cinfras's Small Farm": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-25T03:39:24.357000Z",
+        "acquired": "2025-12-25T04:04:47.119000Z",
         "location": {
             "start": [
                 -224,
@@ -1351,11 +1351,11 @@
     },
     "Gert Camp": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T01:32:18.611000Z",
+        "acquired": "2025-12-25T03:47:10.564000Z",
         "location": {
             "start": [
                 30,
@@ -1369,11 +1369,11 @@
     },
     "Jitak's Farm": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T01:35:55.132000Z",
+        "acquired": "2025-12-25T03:48:39.843000Z",
         "location": {
             "start": [
                 -122,
@@ -2179,11 +2179,11 @@
     },
     "Lusuco": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-24T23:28:01.892000Z",
+        "acquired": "2025-12-25T03:58:52.620000Z",
         "location": {
             "start": [
                 -267,
@@ -2197,11 +2197,11 @@
     },
     "Icy Descent": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-24T23:24:40.229000Z",
+        "acquired": "2025-12-25T03:57:21.799000Z",
         "location": {
             "start": [
                 -311,
@@ -2305,11 +2305,11 @@
     },
     "Twisted Ridge": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T02:09:26.105000Z",
+        "acquired": "2025-12-25T03:45:52.013000Z",
         "location": {
             "start": [
                 -1020,
@@ -2467,11 +2467,11 @@
     },
     "Worm Tunnel": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-25T01:19:45.696000Z",
+        "acquired": "2025-12-25T03:46:15.494000Z",
         "location": {
             "start": [
                 641,
@@ -2485,11 +2485,11 @@
     },
     "Grey Ruins": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-25T01:21:14.281000Z",
+        "acquired": "2025-12-25T03:47:49.821000Z",
         "location": {
             "start": [
                 683,
@@ -2503,11 +2503,11 @@
     },
     "Forgotten Town": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-25T01:22:47.662000Z",
+        "acquired": "2025-12-25T03:49:24.299000Z",
         "location": {
             "start": [
                 480,
@@ -3205,11 +3205,11 @@
     },
     "Wolves' Den": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-24T14:11:21.214000Z",
+        "acquired": "2025-12-25T03:49:49.411000Z",
         "location": {
             "start": [
                 76,
@@ -3223,11 +3223,11 @@
     },
     "Frigid Crossroads": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-24T14:19:51.373000Z",
+        "acquired": "2025-12-25T04:16:28.874000Z",
         "location": {
             "start": [
                 70,
@@ -3259,11 +3259,11 @@
     },
     "Frozen Homestead": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-24T23:15:14.078000Z",
+        "acquired": "2025-12-25T03:45:56.824000Z",
         "location": {
             "start": [
                 70,
@@ -3313,11 +3313,11 @@
     },
     "Icy Vigil": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-25T00:46:14.854000Z",
+        "acquired": "2025-12-25T04:21:03.927000Z",
         "location": {
             "start": [
                 -115,
@@ -3331,11 +3331,11 @@
     },
     "Abandoned Lumberyard": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-24T23:18:49.159000Z",
+        "acquired": "2025-12-25T03:46:25.361000Z",
         "location": {
             "start": [
                 -140,
@@ -3349,11 +3349,11 @@
     },
     "Great Bridge": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-25T00:47:30.832000Z",
+        "acquired": "2025-12-25T03:53:18.616000Z",
         "location": {
             "start": [
                 -275,
@@ -3367,11 +3367,11 @@
     },
     "Jungle Entrance": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-25T00:52:39.447000Z",
+        "acquired": "2025-12-25T03:56:24.514000Z",
         "location": {
             "start": [
                 -395,
@@ -3727,11 +3727,11 @@
     },
     "Almuj Slums": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
+            "name": "The Rat Colony",
+            "prefix": "RATC"
         },
-        "acquired": "2025-12-25T03:18:01.497000Z",
+        "acquired": "2025-12-25T04:24:59.463000Z",
         "location": {
             "start": [
                 1040,
@@ -3781,11 +3781,11 @@
     },
     "Lava Springs": {
         "guild": {
-            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
-            "name": "The Rat Colony",
-            "prefix": "RATC"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T03:21:32.551000Z",
+        "acquired": "2025-12-25T04:22:57.041000Z",
         "location": {
             "start": [
                 775,
@@ -4807,11 +4807,11 @@
     },
     "Bucie Waterfall": {
         "guild": {
-            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-            "name": "Aequitas",
-            "prefix": "Aeq"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T02:09:51.582000Z",
+        "acquired": "2025-12-25T04:14:10.711000Z",
         "location": {
             "start": [
                 -1391,
@@ -4951,11 +4951,11 @@
     },
     "Efilim Crossroads": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T01:48:59.675000Z",
+        "acquired": "2025-12-25T03:55:12.861000Z",
         "location": {
             "start": [
                 -1030,
@@ -4969,11 +4969,11 @@
     },
     "Minotaur Barbecue": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T01:39:41.834000Z",
+        "acquired": "2025-12-25T03:53:23.628000Z",
         "location": {
             "start": [
                 -1014,
@@ -4987,11 +4987,11 @@
     },
     "Path to the Forgery": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T01:08:39.834000Z",
+        "acquired": "2025-12-25T03:56:21.424000Z",
         "location": {
             "start": [
                 -949,
@@ -5041,11 +5041,11 @@
     },
     "Path to Light's Secret": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T02:01:57.253000Z",
+        "acquired": "2025-12-25T04:01:37.673000Z",
         "location": {
             "start": [
                 -1134,
@@ -5167,11 +5167,11 @@
     },
     "The Forgery": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-24T23:54:41.352000Z",
+        "acquired": "2025-12-25T03:54:58.963000Z",
         "location": {
             "start": [
                 -926,
@@ -5257,11 +5257,11 @@
     },
     "Enchanted River": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T00:47:15.704000Z",
+        "acquired": "2025-12-25T03:52:10.605000Z",
         "location": {
             "start": [
                 -942,
@@ -5383,11 +5383,11 @@
     },
     "Lexdale Penitentiary": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-23T13:17:07.529000Z",
+        "acquired": "2025-12-25T04:00:38.351000Z",
         "location": {
             "start": [
                 -873,
@@ -5401,11 +5401,11 @@
     },
     "Path to the Penitentiary": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T01:13:17.523000Z",
+        "acquired": "2025-12-25T03:47:27.551000Z",
         "location": {
             "start": [
                 -771,
@@ -5419,11 +5419,11 @@
     },
     "Faltach Manor": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T02:13:23.284000Z",
+        "acquired": "2025-12-25T03:50:28.121000Z",
         "location": {
             "start": [
                 -896,
@@ -5437,11 +5437,11 @@
     },
     "Viscera Pits": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T00:17:04.652000Z",
+        "acquired": "2025-12-25T03:57:32.724000Z",
         "location": {
             "start": [
                 -659,
@@ -5473,11 +5473,11 @@
     },
     "Old Crossroads": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T01:53:28.431000Z",
+        "acquired": "2025-12-25T03:57:21.657000Z",
         "location": {
             "start": [
                 -648,
@@ -5491,11 +5491,11 @@
     },
     "Entrance to Cinfras": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-25T03:34:57.201000Z",
+        "acquired": "2025-12-25T03:49:25.126000Z",
         "location": {
             "start": [
                 -555,
@@ -5509,11 +5509,11 @@
     },
     "Weird Clearing": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T00:54:06.723000Z",
+        "acquired": "2025-12-25T03:52:50.160000Z",
         "location": {
             "start": [
                 -288,
@@ -5545,11 +5545,11 @@
     },
     "Paper Trail": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-25T03:05:59.433000Z",
+        "acquired": "2025-12-25T04:06:20.363000Z",
         "location": {
             "start": [
                 3,
@@ -5563,11 +5563,11 @@
     },
     "Silverbull Headquarters": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-25T03:41:05.358000Z",
+        "acquired": "2025-12-25T04:12:46.663000Z",
         "location": {
             "start": [
                 -127,
@@ -5617,11 +5617,11 @@
     },
     "Cosmic Fissures": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-25T03:34:46.140000Z",
+        "acquired": "2025-12-25T04:21:36.843000Z",
         "location": {
             "start": [
                 30,
@@ -5653,11 +5653,11 @@
     },
     "Gylia Lakehouse": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T01:56:25.909000Z",
+        "acquired": "2025-12-25T03:49:09.166000Z",
         "location": {
             "start": [
                 -218,
@@ -5671,11 +5671,11 @@
     },
     "Gylia Watchtower": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-25T03:37:44.429000Z",
+        "acquired": "2025-12-25T04:23:11.958000Z",
         "location": {
             "start": [
                 -128,
@@ -5743,11 +5743,11 @@
     },
     "Aldorei River": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-25T03:36:26.528000Z",
+        "acquired": "2025-12-25T04:01:22.520000Z",
         "location": {
             "start": [
                 -437,
@@ -5761,11 +5761,11 @@
     },
     "Aldorei Cliffside Waterfalls": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-25T03:04:07.414000Z",
+        "acquired": "2025-12-25T04:16:23.542000Z",
         "location": {
             "start": [
                 -237,
@@ -5779,11 +5779,11 @@
     },
     "Waterfall Cave": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-25T03:21:27.403000Z",
+        "acquired": "2025-12-25T04:07:58.801000Z",
         "location": {
             "start": [
                 -127,
@@ -7075,11 +7075,11 @@
     },
     "Felroc Fields": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
+            "name": "Tea The Party",
+            "prefix": "TTPT"
         },
-        "acquired": "2025-12-25T03:37:59.138000Z",
+        "acquired": "2025-12-25T04:02:59.740000Z",
         "location": {
             "start": [
                 -337,

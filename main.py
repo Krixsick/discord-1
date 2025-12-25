@@ -7,9 +7,10 @@ os.environ['SSL_CERT_FILE'] = certifi.where()
 import discord
 from discord.ext import commands, tasks
 import aiohttp
-import os
 from dotenv import load_dotenv
 import json
+from datetime import datetime, timezone
+
 # Load your token
 load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN")
@@ -19,13 +20,30 @@ intents = discord.Intents.default()
 intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
+# Changed to store {"guild": name, "acquired": datetime}
 previous_territories = {}
 API_URL = "https://api.wynncraft.com/v3/guild/list/territory"
+
+
+def format_duration(delta):
+    total_seconds = int(delta.total_seconds())
+    days, remainder = divmod(total_seconds, 86400)
+    hours, remainder = divmod(remainder, 3600)
+    minutes, _ = divmod(remainder, 60)
+    if days > 0:
+        return f"{days}d {hours}h"
+    elif hours > 0:
+        return f"{hours}h {minutes}m"
+    else:
+        return f"{minutes}m"
+
+
 @bot.event
 async def on_ready():
     print(f"Logged in as {bot.user}")
     if not monitor_territories.is_running():
         monitor_territories.start()
+
 
 @tasks.loop(seconds=10)
 async def monitor_territories():
@@ -35,34 +53,73 @@ async def monitor_territories():
             territory_data = await response.json()
             with open("data.json", "w") as f:
                 json.dump(territory_data, f, indent=4)
-            # Create a simplified dictionary: { "Territory Name": "Guild Name" }
+            
+            now = datetime.now(timezone.utc)
             current_territories = {}
             for territory_name, data in territory_data.items():
                 guild_data = data.get("guild", {})
                 guild_name = guild_data.get("name", "None")
                 current_territories[territory_name] = guild_name
             if not previous_territories:
-                previous_territories = current_territories
-                print("Initialized territory data.")
+                for territory_name, guild_name in current_territories.items():
+                    previous_territories[territory_name] = {
+                        "guild": guild_name,
+                        "acquired": now
+                    }
+                print(f"Initialized {len(previous_territories)} territories.")
                 return
             # Compare current vs previous
             for territory, new_owner in current_territories.items():
-                old_owner = previous_territories.get(territory)
-                # If owner changed AND it wasn't just "None"
+                old_data = previous_territories.get(territory, {})
+                old_owner = old_data.get("guild")
                 if old_owner and new_owner != old_owner:
-                    #Calculate how many territories the new guild has
-                    total_count = list(current_territories.values()).count(new_owner)
-                    #The message
+                    acquired_time = old_data.get("acquired", now)
+                    held_duration = format_duration(now - acquired_time)
+                    new_owner_count = list(current_territories.values()).count(new_owner)
+                    old_owner_count = list(current_territories.values()).count(old_owner)
+                    
+                    # Build embed
+                    embed = discord.Embed(
+                        title="Territory Captured!",
+                        description=f"**{territory}**",
+                        color=discord.Color.red(),
+                        timestamp=now
+                    )
+                    
+                    embed.add_field(
+                        name="New Owner",
+                        value=f"**{new_owner}**\n{new_owner_count} territories",
+                        inline=True
+                    )
+                    
+                    embed.add_field(
+                        name="Lost By",
+                        value=f"**{old_owner}**\n{old_owner_count} territories",
+                        inline=True
+                    )
+                    
+                    embed.add_field(
+                        name="Time Held",
+                        value=held_duration,
+                        inline=True
+                    )
+                    embed.set_footer(text="Wynncraft Territory Tracker")
                     channel = bot.get_channel(CHANNEL_ID)
                     if channel:
-                        await channel.send(
-                            f" **Territory Update!**\n"
-                            f"**{territory}** has been taken over by **{new_owner}**! (Previously: {old_owner})\n"
-                            f" {new_owner} now controls **{total_count}** territories."
-                        )
+                        await channel.send(embed=embed)
                         print(f"Alerted: {territory} -> {new_owner}")
-            # Update the "previous" state for the next loop
-            previous_territories = current_territories
+                    # Update this territory with new owner and reset timer
+                    previous_territories[territory] = {
+                        "guild": new_owner,
+                        "acquired": now
+                    }
+            # Updates our territories
+            for territory, guild_name in current_territories.items():
+                if territory not in previous_territories:
+                    previous_territories[territory] = {
+                        "guild": guild_name,
+                        "acquired": now
+                    }
 
 
 bot.run(TOKEN)
