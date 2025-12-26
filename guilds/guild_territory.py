@@ -8,7 +8,7 @@ import os
 
 load_dotenv()
 API_URL = os.getenv("API_URL")
-# Removed CHANNEL_ID line
+
 
 def format_duration(delta):
     total_seconds = int(delta.total_seconds())
@@ -41,100 +41,87 @@ class TerritoryTracker(commands.Cog):
         async with aiohttp.ClientSession() as session:
             async with session.get(API_URL) as response:
                 territory_data = await response.json()
-                
-                # Optional: Save to file for debugging
                 with open("data.json", "w") as f:
                     json.dump(territory_data, f, indent=4)
-                
                 now = datetime.now(timezone.utc)
                 current_territories = {}
-                
-                # Parse current data
+                #fills in current_territories
                 for territory_name, data in territory_data.items():
-                    guild_data = data.get("guild")
+                    guild_data = data.get("guild", {})
                     guild_name = guild_data.get("name")
-                    current_territories[territory_name] = guild_name
-
-                # Initialization (First Run)
+                    guild_acquired_time = data.get("acquired")
+                    if guild_acquired_time:
+                        try:
+                            # Wynncraft API format: "2024-01-15T10:30:00.000Z"
+                            acquired_time = datetime.fromisoformat(guild_acquired_time.replace("Z", "+00:00"))
+                        except Exception as e:
+                            print(e)
+                            acquired_time = now
+                    else:
+                        acquired_time = now
+                    current_territories[territory_name] = {
+                        "guild": guild_name,
+                        "acquired": acquired_time
+                    }
+                #First Run
+                
                 if not self.previous_territories:
-                    for t_name, g_name in current_territories.items():
-                        raw_acquired = territory_data.get(t_name, {}).get("acquired")
-                        if raw_acquired:
-                             acquired_val = raw_acquired 
-                        else:
-                             acquired_val = now
-
-                        self.previous_territories[t_name] = {
-                            "guild": g_name,
-                            "acquired": acquired_val 
-                        }
+                    self.previous_territories = current_territories.copy()
                     print(f"Initialized {len(self.previous_territories)} territories.")
                     return
-
-                # Detect Changes
                 embeds_to_send = []
-
+                
+                # Compare current vs previous
                 for territory, new_owner in current_territories.items():
-                    old_data = self.previous_territories.get(territory)
-                    old_owner = old_data.get("guild")
-                    
+                    old_territory = self.previous_territories.get(territory)
+                    old_owner = old_territory.get("guild")
+                    new_owner = new_owner["guild"]
                     if old_owner and new_owner != old_owner:
-                        # Calculate Duration
-                        acquired_str = old_data.get("acquired")
-                        if isinstance(acquired_str, str):
-                            try:
-                                acquired_dt = datetime.strptime(acquired_str, "%Y-%m-%d %H:%M:%S")
-                                acquired_dt = acquired_dt.replace(tzinfo=timezone.utc)
-                                held_duration = format_duration(now - acquired_dt)
-                            except:
-                                held_duration = "Unknown"
-                        else:
-                             held_duration = format_duration(now - acquired_str) if isinstance(acquired_str, datetime) else "Unknown"
-
-                        new_owner_count = list(current_territories.values()).count(new_owner)
-                        old_owner_count = list(current_territories.values()).count(old_owner)
-
-                        # Build Embed
+                        acquired_time = old_territory.get("acquired", now)
+                        held_duration = format_duration(now - acquired_time)
+                        new_owner_count = sum(1 for t in current_territories.values() if t["guild"] == new_owner)
+                        old_owner_count = sum(1 for t in current_territories.values() if t["guild"] == old_owner)
+                        # Build embed
                         embed = discord.Embed(
                             title="Territory Captured!",
                             description=f"**{territory}**",
                             color=discord.Color.red(),
                             timestamp=now
                         )
-                        embed.add_field(name="New Owner", value=f"**{new_owner}**\n{new_owner_count} territories", inline=True)
-                        embed.add_field(name="Lost By", value=f"**{old_owner}**\n{old_owner_count} territories", inline=True)
-                        embed.add_field(name="Time Held", value=held_duration, inline=True)
+                        embed.add_field(
+                            name="New Owner",
+                            value=f"**{new_owner}**\n{new_owner_count} territories",
+                            inline=True
+                        )
+                        embed.add_field(
+                            name="Lost By",
+                            value=f"**{old_owner}**\n{old_owner_count} territories",
+                            inline=True
+                        )
+                        embed.add_field(
+                            name="Time Held",
+                            value=held_duration,
+                            inline=True
+                        )
                         embed.set_footer(text="Wynncraft Territory Tracker")
-                        
                         embeds_to_send.append(embed)
-                        print(f"Alert: {territory} -> {new_owner}")
-
-                        # Update Memory
+                        # Update this territory with new owner and reset timer
                         self.previous_territories[territory] = {
                             "guild": new_owner,
                             "acquired": now
                         }
-
-                #Broadcast to all servers
+                #only writes in a discord channel territory-alerts
                 if embeds_to_send:
                     for guild in self.bot.guilds:
-                        # channe search
                         channel = discord.utils.get(guild.text_channels, name="territory-alerts")
                         if channel:
-                            try:
-                                for embed in embeds_to_send:
-                                    await channel.send(embed=embed)
-                            except discord.Forbidden:
-                                print(f"Missing permissions in {guild.name}")
-                       
+                            for embed in embeds_to_send:
+                                await channel.send(embed=embed)
+                                print(f"Alerted: {territory} -> {new_owner}")
+                # Updates our territories
+                self.previous_territories = current_territories.copy()
 
-                #Handles new terr
-                for territory, guild_name in current_territories.items():
-                    if territory not in self.previous_territories:
-                        self.previous_territories[territory] = {
-                            "guild": guild_name,
-                            "acquired": now
-                        }
+                
 
 async def setup(bot):
     await bot.add_cog(TerritoryTracker(bot))
