@@ -80,8 +80,8 @@ class TerritoryTracker(commands.Cog):
                     if old_owner and new_owner != old_owner:
                         acquired_time = old_territory.get("acquired", now)
                         held_duration = format_duration(now - acquired_time)
-                        new_owner_count = list(current_territories.values()).count(new_owner)
-                        old_owner_count = list(current_territories.values()).count(old_owner)
+                        new_owner_count = sum(1 for t in current_territories.values() if t["guild"] == new_owner)
+                        old_owner_count = sum(1 for t in current_territories.values() if t["guild"] == old_owner)
                         # Build embed
                         embed = discord.Embed(
                             title="Territory Captured!",
