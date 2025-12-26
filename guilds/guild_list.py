@@ -15,6 +15,7 @@ class GuildList(commands.Cog):
         self.bot = bot
 
     @commands.command(name="guild")
+    @commands.cooldown(1, 10, commands.BucketType.guild)
     async def display_guilds(self, ctx, prefix: str):
         api = f"https://api.wynncraft.com/v3/guild/prefix/{prefix}"
         async with aiohttp.ClientSession() as session:
@@ -79,6 +80,10 @@ class GuildList(commands.Cog):
                 embed.set_footer(text="★★★★★ Owner | ★★★★ Chief | ★★★ Strategist | ★★ Captain | ★ Recruiter")
 
                 await ctx.send(embed=embed)
-
+    @display_guilds.error
+    async def display_guilds_error(self, ctx, error):
+        if isinstance(error, commands.CommandOnCooldown):
+            await ctx.send(f"Slow down! Try again in {error.retry_after:.1f}s.")
+            
 async def setup(bot):
     await bot.add_cog(GuildList(bot))

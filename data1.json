@@ -1,863 +1,1251 @@
 {
-    "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
-    "name": "The Rat Colony",
-    "prefix": "RATC",
-    "level": 89,
-    "xpPercent": 61,
-    "territories": 9,
-    "wars": 15138,
-    "created": "2024-05-02T01:45:25.120000Z",
+    "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+    "name": "Titans Valor",
+    "prefix": "ANO",
+    "level": 117,
+    "xpPercent": 89,
+    "territories": 31,
+    "wars": 111682,
+    "created": "2017-07-02T04:31:07.723000Z",
     "members": {
-        "total": 96,
+        "total": 135,
         "owner": {
-            "KodaAndKeyno": {
-                "uuid": "1c8bb749-a8b1-4642-b030-1fdadea927c0",
-                "online": false,
-                "server": null,
-                "contributed": 12070779807,
-                "contributionRank": 3,
-                "joined": "2025-10-15T23:01:19.240000Z"
+            "Calluum": {
+                "uuid": "911a950a-839d-4150-bfe8-d901a3b85316",
+                "online": true,
+                "server": "EU14",
+                "contributed": 384061644032,
+                "contributionRank": 4,
+                "joined": "2021-04-04T18:03:39.970000Z"
             }
         },
         "chief": {
-            "Attila7": {
-                "uuid": "3c79f711-d764-4a0d-9b27-81649c5fadde",
+            "LaMDaKiS": {
+                "uuid": "9e7c5971-a5d9-46cf-92c5-2ab555cedfa2",
                 "online": false,
                 "server": null,
-                "contributed": 18525329485,
-                "contributionRank": 1,
-                "joined": "2025-03-15T09:56:23.166000Z"
-            },
-            "Punsiii": {
-                "uuid": "c1e37447-4db4-4e5c-a8c3-3f3a524a8686",
-                "online": false,
-                "server": null,
-                "contributed": 12995507321,
+                "contributed": 463989364489,
                 "contributionRank": 2,
-                "joined": "2024-05-02T01:45:25.120000Z"
+                "joined": "2020-12-29T00:05:33.757000Z"
             },
-            "DJDoggy703": {
-                "uuid": "c1da66a7-22ea-41cb-951a-07c4aabe5cd7",
+            "GebutterteWurst": {
+                "uuid": "5c46332e-b1ec-4c4a-9a59-4bf2a4a8baaa",
                 "online": false,
                 "server": null,
-                "contributed": 4319708057,
+                "contributed": 370027140922,
                 "contributionRank": 5,
-                "joined": "2025-10-15T23:05:28.407000Z"
+                "joined": "2021-08-30T07:33:23.038000Z"
             },
-            "caffeinic": {
-                "uuid": "a0dd1982-8c7c-4f6b-85dc-06aac40041a6",
-                "online": false,
-                "server": null,
-                "contributed": 2272092803,
+            "Hibikies": {
+                "uuid": "1bd7f518-0577-4093-a8e1-708890b2c4df",
+                "online": true,
+                "server": "EU15",
+                "contributed": 316356693955,
                 "contributionRank": 6,
-                "joined": "2024-07-11T04:45:56.435000Z"
+                "joined": "2024-06-15T14:02:53.166000Z"
             },
-            "uu360": {
-                "uuid": "5abab520-f386-4afd-8387-53ea05153767",
+            "Supa_Knova": {
+                "uuid": "0ccf9f77-aafa-44cf-b241-26ad9674ed27",
                 "online": false,
                 "server": null,
-                "contributed": 1328979970,
+                "contributed": 296169411237,
+                "contributionRank": 7,
+                "joined": "2025-05-09T17:26:43.569000Z"
+            },
+            "Asoart": {
+                "uuid": "9be0c7f1-edf9-435f-8ab0-d4d3f6d2b6b4",
+                "online": true,
+                "server": "EU14",
+                "contributed": 291081901529,
                 "contributionRank": 9,
-                "joined": "2025-11-08T08:42:45.506000Z"
+                "joined": "2022-04-28T06:49:18.437000Z"
             },
-            "will208": {
-                "uuid": "f4dd0bd6-50ef-4506-9867-1eb5ef855ef2",
+            "Eshreal": {
+                "uuid": "16e2e374-837c-44b8-88c0-a111e8cc89a8",
                 "online": false,
                 "server": null,
-                "contributed": 1057194109,
-                "contributionRank": 10,
-                "joined": "2025-10-27T14:17:04.588000Z"
+                "contributed": 178076281115,
+                "contributionRank": 11,
+                "joined": "2025-01-18T21:03:08.160000Z"
             },
-            "azaz_": {
-                "uuid": "4345936d-d27a-4984-971a-64977bdca992",
+            "Biblonko": {
+                "uuid": "841dd344-a4a8-4d8d-a790-2247f3922a6a",
                 "online": false,
                 "server": null,
-                "contributed": 802130842,
+                "contributed": 150132019520,
                 "contributionRank": 12,
-                "joined": "2024-10-15T18:49:16.008000Z"
+                "joined": "2022-02-21T18:52:59.817000Z"
             },
-            "Kinlyu176": {
-                "uuid": "6363c8ce-0b24-4274-ad7b-b73b772168a6",
+            "Ugastag": {
+                "uuid": "677e0b09-9643-4fac-85b3-3b84e6c0fd2a",
                 "online": false,
                 "server": null,
-                "contributed": 798458162,
+                "contributed": 145450726147,
                 "contributionRank": 13,
-                "joined": "2025-03-13T21:28:24.133000Z"
+                "joined": "2022-02-21T18:54:11.755000Z"
             },
-            "Frat_Boyz": {
-                "uuid": "1e46e602-c491-4cae-858e-3a65eeaea460",
+            "kloweee": {
+                "uuid": "028a8fdd-6ee6-410e-af53-9b9bbbefec6b",
+                "online": true,
+                "server": "EU14",
+                "contributed": 142843395734,
+                "contributionRank": 14,
+                "joined": "2025-07-16T19:37:09.162000Z"
+            },
+            "kebabdoner": {
+                "uuid": "e45b031c-2c5b-4366-8e07-afa9582dc723",
                 "online": false,
                 "server": null,
-                "contributed": 685736031,
-                "contributionRank": 16,
-                "joined": "2025-03-10T01:01:43.654000Z"
-            },
-            "ShinysElite": {
-                "uuid": "500fae72-b11c-4d64-94f1-2db16a69bfcf",
-                "online": false,
-                "server": null,
-                "contributed": 666609066,
+                "contributed": 128709883566,
                 "contributionRank": 17,
-                "joined": "2025-10-17T18:07:47.999000Z"
+                "joined": "2022-11-28T12:57:47.658000Z"
             },
-            "SubspaceHamster": {
-                "uuid": "2d665dbd-398d-4674-b0cd-b2e420f545d3",
+            "Zepart": {
+                "uuid": "64f4cbc7-d88c-48fd-b672-2480a19abcab",
+                "online": true,
+                "server": "EU2",
+                "contributed": 89809066066,
+                "contributionRank": 22,
+                "joined": "2025-07-16T13:39:44.155000Z"
+            },
+            "OverFears": {
+                "uuid": "7aec3c37-d9ab-48ad-b7fd-90e0be7be6b6",
                 "online": false,
                 "server": null,
-                "contributed": 593372383,
-                "contributionRank": 18,
-                "joined": "2025-10-18T22:52:55.979000Z"
+                "contributed": 83934246582,
+                "contributionRank": 23,
+                "joined": "2024-04-29T12:38:28.085000Z"
             },
-            "Caekin": {
-                "uuid": "73c1e505-7201-400c-b08d-cd39c0fd848d",
+            "Snazz": {
+                "uuid": "66c42e97-ef53-4875-8a0a-5408ab44d675",
                 "online": false,
                 "server": null,
-                "contributed": 160012123,
-                "contributionRank": 30,
-                "joined": "2024-12-25T04:21:24.898000Z"
+                "contributed": 30502841254,
+                "contributionRank": 43,
+                "joined": "2021-02-11T17:01:06.088000Z"
             },
-            "Topdiamond2006": {
-                "uuid": "1c7485f9-4f8b-42db-a3c6-70da1168eb7a",
+            "RawGamingYT": {
+                "uuid": "94db193c-d018-4e21-a490-9e3ca3cf5f3a",
                 "online": false,
                 "server": null,
-                "contributed": 3018928,
-                "contributionRank": 68,
-                "joined": "2025-11-16T20:50:27.116000Z"
+                "contributed": 8911217094,
+                "contributionRank": 70,
+                "joined": "2020-12-21T22:16:47.854000Z"
             },
-            "CheeseHoarder": {
-                "uuid": "418073b2-b2d0-42e5-8332-9a50fb47f3a3",
+            "Aezuh": {
+                "uuid": "1395bffe-eb73-4461-a748-e72cfa0d6713",
                 "online": false,
                 "server": null,
-                "contributed": 25798,
-                "contributionRank": 81,
-                "joined": "2025-11-11T00:05:15.795000Z"
+                "contributed": 4852198833,
+                "contributionRank": 80,
+                "joined": "2021-01-31T20:37:42.409000Z"
             },
-            "salzt": {
-                "uuid": "9d3a8282-9cf1-445f-93cb-931e9a8a2e73",
+            "IceResistance": {
+                "uuid": "b8e715c7-4eed-4126-a41d-bbaed3a739aa",
                 "online": false,
                 "server": null,
-                "contributed": 0,
-                "contributionRank": 86,
-                "joined": "2025-10-03T01:12:50.581000Z"
+                "contributed": 138445027,
+                "contributionRank": 107,
+                "joined": "2017-07-02T04:31:07.723000Z"
+            },
+            "ppfart": {
+                "uuid": "d8b8516f-d79d-4aac-b713-26d9ce0f0d57",
+                "online": false,
+                "server": null,
+                "contributed": 120328,
+                "contributionRank": 121,
+                "joined": "2025-06-16T20:10:17.721000Z"
+            },
+            "Mayonnee": {
+                "uuid": "94dda3d3-85d3-4929-8c71-36c305a830c4",
+                "online": false,
+                "server": null,
+                "contributed": 22847,
+                "contributionRank": 124,
+                "joined": "2025-08-06T19:10:44.677000Z"
             }
         },
         "strategist": {
-            "BigBoiBarles": {
-                "uuid": "84b08ce2-af20-47a8-9284-ac0bb6138470",
+            "PiglinRose": {
+                "uuid": "1f348da7-364f-4c59-bdcd-c8064862d780",
                 "online": false,
                 "server": null,
-                "contributed": 7275607636,
-                "contributionRank": 4,
-                "joined": "2024-12-12T19:53:22.165000Z"
+                "contributed": 385537812042,
+                "contributionRank": 3,
+                "joined": "2024-08-22T16:48:06.892000Z"
             },
-            "FREAKYCROW": {
-                "uuid": "047a1b00-0c2e-4880-be90-17916810b7b3",
+            "Aethei": {
+                "uuid": "8ead6fb4-3b39-4855-b0d6-eddaba8c2c9c",
                 "online": false,
                 "server": null,
-                "contributed": 1739696780,
-                "contributionRank": 7,
-                "joined": "2025-11-12T17:28:07.605000Z"
-            },
-            "TBDerpo": {
-                "uuid": "81a61847-c911-422f-94c5-9261d53fad95",
-                "online": false,
-                "server": null,
-                "contributed": 1725894894,
+                "contributed": 295258320943,
                 "contributionRank": 8,
-                "joined": "2025-10-15T23:14:35.870000Z"
+                "joined": "2025-02-02T21:53:09.040000Z"
             },
-            "_Fidubu": {
-                "uuid": "2f6ef72a-dde7-411e-a846-aca2fc56c976",
+            "KevinBoiii": {
+                "uuid": "52610368-d720-402e-bda6-6ca0c55ae0a6",
                 "online": false,
                 "server": null,
-                "contributed": 859784639,
-                "contributionRank": 11,
-                "joined": "2025-11-10T03:27:07.856000Z"
+                "contributed": 235907730669,
+                "contributionRank": 10,
+                "joined": "2025-07-01T21:18:03.590000Z"
             },
-            "3r45er": {
-                "uuid": "19ad6eee-b38c-4f87-8ae2-bc9eef13912d",
+            "gunplafan123": {
+                "uuid": "201f16f6-b9fd-4d48-9a6f-96c8ae38755f",
                 "online": false,
                 "server": null,
-                "contributed": 725159390,
-                "contributionRank": 14,
-                "joined": "2024-11-10T03:23:14.597000Z"
+                "contributed": 128427740853,
+                "contributionRank": 18,
+                "joined": "2025-06-01T10:13:48.510000Z"
             },
-            "foxfiv": {
-                "uuid": "815dab9d-2be0-4469-8940-7bc3bd3a34bb",
+            "Kusuris": {
+                "uuid": "d981f4c4-02f5-4606-afbd-2d3509cc96e2",
                 "online": false,
                 "server": null,
-                "contributed": 707189450,
-                "contributionRank": 15,
-                "joined": "2024-10-02T21:14:10.707000Z"
-            },
-            "Grengroi": {
-                "uuid": "227b21ed-42d3-470e-b0a5-77e91ea760e1",
-                "online": false,
-                "server": null,
-                "contributed": 572981297,
+                "contributed": 122854600056,
                 "contributionRank": 19,
-                "joined": "2025-02-14T18:27:22.705000Z"
+                "joined": "2024-10-02T11:59:17.256000Z"
             },
-            "Shockser": {
-                "uuid": "6a7a93c0-2c49-45e2-868f-0a34f8e1f299",
+            "minty139": {
+                "uuid": "70bcd8f2-1b7c-4287-9b74-a0719eda4ba3",
                 "online": false,
                 "server": null,
-                "contributed": 444140049,
+                "contributed": 107006215025,
+                "contributionRank": 20,
+                "joined": "2025-08-25T06:59:03.740000Z"
+            },
+            "Xpyouy": {
+                "uuid": "a2a16886-d82c-4871-8a23-d8862bfdae4d",
+                "online": true,
+                "server": "EU3",
+                "contributed": 95955952183,
                 "contributionRank": 21,
-                "joined": "2025-11-30T05:41:13.271000Z"
+                "joined": "2024-11-21T20:18:26.005000Z"
             },
-            "Damage_per_secon": {
-                "uuid": "84a2c2c5-ce05-4982-b0a6-8993376cc523",
+            "WaiZ": {
+                "uuid": "0890f976-1c6c-47af-b063-2d3b572aaca4",
+                "online": true,
+                "server": "EU3",
+                "contributed": 67947405932,
+                "contributionRank": 27,
+                "joined": "2024-09-16T14:01:46.453000Z"
+            },
+            "C0rupted": {
+                "uuid": "31b35756-731e-4d8d-8691-7cb8f782bfee",
                 "online": false,
                 "server": null,
-                "contributed": 410966218,
-                "contributionRank": 22,
-                "joined": "2025-11-13T11:48:27.132000Z"
+                "contributed": 51480302250,
+                "contributionRank": 30,
+                "joined": "2025-04-24T02:49:28.660000Z"
             },
-            "sailerbroo": {
-                "uuid": "faf95ed0-5f70-427c-8b90-6f8dfee776f7",
+            "l1npengtul": {
+                "uuid": "2c07e0ec-8113-48c9-a07f-96d7233fecd8",
+                "online": true,
+                "server": "EU14",
+                "contributed": 47416539289,
+                "contributionRank": 33,
+                "joined": "2025-11-05T17:59:58.718000Z"
+            },
+            "_HalfDollar": {
+                "uuid": "4a0ecf94-08e8-4f70-8497-989db5c35e8a",
                 "online": false,
                 "server": null,
-                "contributed": 401859204,
-                "contributionRank": 23,
-                "joined": "2025-10-19T15:05:05.804000Z"
-            },
-            "Pax1289": {
-                "uuid": "f2f1ccb9-a182-493c-806b-455fc2a7c78b",
-                "online": false,
-                "server": null,
-                "contributed": 175766534,
-                "contributionRank": 29,
-                "joined": "2024-10-13T02:31:10.588000Z"
-            },
-            "Cryp_": {
-                "uuid": "ff5df838-86f8-4627-8f8f-1b1eefcc3fc1",
-                "online": false,
-                "server": null,
-                "contributed": 125846589,
+                "contributed": 46479838530,
                 "contributionRank": 34,
-                "joined": "2025-04-11T23:38:39.558000Z"
+                "joined": "2025-08-18T20:30:58.284000Z"
             },
-            "HenTayra": {
-                "uuid": "72f5794c-f7af-4ad2-a49a-2a4e26e41263",
+            "__Martyy": {
+                "uuid": "99be1b1e-8416-46e6-8a24-b5c2270b7570",
                 "online": false,
                 "server": null,
-                "contributed": 108152725,
-                "contributionRank": 36,
-                "joined": "2025-04-27T14:02:50.065000Z"
+                "contributed": 32750750279,
+                "contributionRank": 40,
+                "joined": "2024-06-10T23:18:37.804000Z"
             },
-            "_Wolf_Tamer_": {
-                "uuid": "31d87be9-4469-4db9-81fb-6bb7bfb0385a",
+            "NotableOsprey92": {
+                "uuid": "dedd8577-ec95-4fda-9911-d3c7764ab7f0",
                 "online": false,
                 "server": null,
-                "contributed": 102066580,
-                "contributionRank": 38,
-                "joined": "2024-12-06T23:28:10.525000Z"
+                "contributed": 31344967670,
+                "contributionRank": 41,
+                "joined": "2021-06-04T20:01:35.949000Z"
             },
-            "Dragus24": {
-                "uuid": "34c8a4df-3cae-4464-867c-f1fa7518fe04",
+            "Lamplesspost": {
+                "uuid": "1efe7553-9747-4074-8622-bb35059dc74c",
                 "online": false,
                 "server": null,
-                "contributed": 76961124,
-                "contributionRank": 44,
-                "joined": "2024-10-13T02:07:34.411000Z"
+                "contributed": 30968081454,
+                "contributionRank": 42,
+                "joined": "2024-09-10T15:13:15.390000Z"
             },
-            "StayHydrateuwu": {
-                "uuid": "1e30f49d-48d1-4df2-b6fa-dfb7ff624dc7",
+            "Talkair": {
+                "uuid": "e0e48ca9-9687-4f0a-87a2-247b4e13443e",
                 "online": false,
                 "server": null,
-                "contributed": 30960341,
-                "contributionRank": 55,
-                "joined": "2025-12-08T01:04:23.089000Z"
+                "contributed": 25873194460,
+                "contributionRank": 46,
+                "joined": "2023-11-27T07:31:05.729000Z"
             },
-            "EntityJava": {
-                "uuid": "ff153914-24c4-4118-8fc2-0d2305ab45ec",
+            "Gtloverboy": {
+                "uuid": "b34bf30d-830f-4c38-b4c0-8dc9913e709c",
                 "online": false,
                 "server": null,
-                "contributed": 23188682,
-                "contributionRank": 59,
-                "joined": "2024-06-11T00:54:03.657000Z"
+                "contributed": 12699870770,
+                "contributionRank": 61,
+                "joined": "2025-01-24T05:59:25.853000Z"
             },
-            "ShadowArcher141": {
-                "uuid": "21b448e5-3a47-4bcd-9905-280d29b21d66",
+            "_Eth3real": {
+                "uuid": "a79b3f58-981f-4f94-83cf-3eff26e2bcb0",
                 "online": false,
                 "server": null,
-                "contributed": 10064210,
-                "contributionRank": 62,
-                "joined": "2024-07-04T21:49:46.233000Z"
+                "contributed": 9808273984,
+                "contributionRank": 67,
+                "joined": "2025-06-23T02:59:52.865000Z"
             },
-            "jDog116": {
-                "uuid": "5c36b67c-da5c-485b-be1b-32d774e63589",
+            "SemiBat": {
+                "uuid": "89b7ecd2-10f8-49dc-a0f2-7d0f390695b6",
                 "online": false,
                 "server": null,
-                "contributed": 7316219,
-                "contributionRank": 66,
-                "joined": "2025-11-03T04:43:45.694000Z"
+                "contributed": 9719824603,
+                "contributionRank": 68,
+                "joined": "2025-08-07T11:25:43.880000Z"
             },
-            "WolfCandle": {
-                "uuid": "e0b48ca3-b441-460e-9b18-517a5f0b98d0",
+            "Trigonometri": {
+                "uuid": "43df9f68-85ca-4f47-bc18-eb7e1c2fd6a6",
                 "online": false,
                 "server": null,
-                "contributed": 751541,
-                "contributionRank": 74,
-                "joined": "2025-11-25T23:15:01.789000Z"
+                "contributed": 4777729950,
+                "contributionRank": 81,
+                "joined": "2025-06-25T05:58:14.478000Z"
             },
-            "MayaNum1opps": {
-                "uuid": "607d75b0-cade-4c48-baf2-892f527e6ee3",
+            "PaladinSorcerer": {
+                "uuid": "0ff8160b-895e-433f-b27d-db942bcbe3ac",
                 "online": false,
                 "server": null,
-                "contributed": 3,
-                "contributionRank": 84,
-                "joined": "2025-12-01T06:49:14.679000Z"
-            },
-            "ParanorIII": {
-                "uuid": "004dbad9-c9fd-4e7b-bb0e-a06b39ac19ea",
-                "online": false,
-                "server": null,
-                "contributed": 0,
-                "contributionRank": 96,
-                "joined": "2025-12-25T03:04:33.640000Z"
+                "contributed": 779,
+                "contributionRank": 126,
+                "joined": "2025-07-04T03:50:34.223000Z"
             }
         },
         "captain": {
-            "Ratt1221": {
-                "uuid": "4fc4ada2-8e66-4697-acaf-38d4f1d7c0bd",
+            "Potatoking726": {
+                "uuid": "3d1b115b-287d-4cdd-bdd2-90ae7af67430",
                 "online": false,
                 "server": null,
-                "contributed": 385532886,
-                "contributionRank": 24,
-                "joined": "2025-10-22T03:03:23.671000Z"
+                "contributed": 480058731115,
+                "contributionRank": 1,
+                "joined": "2025-01-23T21:25:42.717000Z"
             },
-            "GintamaZ": {
-                "uuid": "540c5be7-c0f3-4394-b9c9-639c366410de",
+            "Skyson_exe": {
+                "uuid": "86d44aaf-ec12-42d1-bd7d-98069ce99d96",
                 "online": false,
                 "server": null,
-                "contributed": 329595702,
+                "contributed": 141964761290,
+                "contributionRank": 15,
+                "joined": "2024-09-28T05:48:45.204000Z"
+            },
+            "fatopman": {
+                "uuid": "1f1af15c-24dd-4529-9e5d-a60b348a90ae",
+                "online": false,
+                "server": null,
+                "contributed": 70245117837,
                 "contributionRank": 25,
-                "joined": "2025-10-25T21:16:45.831000Z"
+                "joined": "2025-05-07T13:07:10.293000Z"
             },
-            "viprei": {
-                "uuid": "6ba6db3a-b900-4d5d-99b3-8c07f6cdd33d",
+            "ibu1104": {
+                "uuid": "24d8b999-6f56-4dba-8789-4a9e95614dd9",
                 "online": false,
                 "server": null,
-                "contributed": 309154045,
-                "contributionRank": 26,
-                "joined": "2025-10-21T05:28:49.083000Z"
-            },
-            "UnstopableDude22": {
-                "uuid": "d480273c-b14e-4987-b108-d8ff584d1f55",
-                "online": false,
-                "server": null,
-                "contributed": 214396967,
-                "contributionRank": 27,
-                "joined": "2025-10-20T22:54:48.882000Z"
-            },
-            "eblizzy42": {
-                "uuid": "e92bd5e3-4bd0-4ee8-becf-53a92582ab1d",
-                "online": false,
-                "server": null,
-                "contributed": 214389335,
+                "contributed": 62873299704,
                 "contributionRank": 28,
-                "joined": "2025-10-27T21:09:49.476000Z"
+                "joined": "2024-08-26T03:42:03.768000Z"
             },
-            "Oak_Ivy": {
-                "uuid": "e48285d7-199b-45b2-891c-174b1f9f4bbe",
+            "skisu": {
+                "uuid": "fd59dad9-598f-411b-ba8c-f07cb8c9069f",
                 "online": false,
                 "server": null,
-                "contributed": 157021793,
-                "contributionRank": 31,
-                "joined": "2024-08-11T19:50:23.414000Z"
-            },
-            "Lokreath": {
-                "uuid": "c557adf0-915c-4cb2-8b89-317160ff517f",
-                "online": false,
-                "server": null,
-                "contributed": 143630546,
-                "contributionRank": 32,
-                "joined": "2025-10-18T16:52:00.740000Z"
-            },
-            "100LevI": {
-                "uuid": "caaaa634-838b-4dab-80cf-8ae4219ad49d",
-                "online": false,
-                "server": null,
-                "contributed": 138169923,
-                "contributionRank": 33,
-                "joined": "2025-11-03T22:39:43.356000Z"
-            },
-            "sneakyninja1984": {
-                "uuid": "92a295e0-4711-41e9-839b-8ee5ba360b7b",
-                "online": false,
-                "server": null,
-                "contributed": 119217412,
+                "contributed": 43658728104,
                 "contributionRank": 35,
-                "joined": "2025-11-05T02:57:01.822000Z"
+                "joined": "2025-10-18T13:04:50.036000Z"
             },
-            "Laurinia": {
-                "uuid": "b8a3ed2a-3df8-456f-b2d0-8e413df9db25",
+            "ZoSo": {
+                "uuid": "c777a4c9-3e95-4f00-bed7-7f360bbabed5",
                 "online": false,
                 "server": null,
-                "contributed": 105254312,
-                "contributionRank": 37,
-                "joined": "2024-07-26T16:04:25.210000Z"
+                "contributed": 33770445583,
+                "contributionRank": 38,
+                "joined": "2025-03-17T20:28:15.860000Z"
             },
-            "x1Shiny": {
-                "uuid": "7ee68b36-cd6e-4598-9025-d3cac38cf3c3",
-                "online": false,
-                "server": null,
-                "contributed": 84136570,
-                "contributionRank": 40,
-                "joined": "2025-11-29T18:06:38.388000Z"
-            },
-            "CoqueirinhoAB": {
-                "uuid": "3c7b7088-4d02-4988-bde6-b805f9e631a2",
-                "online": false,
-                "server": null,
-                "contributed": 79657515,
-                "contributionRank": 42,
-                "joined": "2025-11-14T00:41:30.836000Z"
-            },
-            "MappleMonkey": {
-                "uuid": "642f348c-59e0-44ee-adb6-28a6664a9157",
-                "online": false,
-                "server": null,
-                "contributed": 78982183,
-                "contributionRank": 43,
-                "joined": "2025-05-20T00:11:10.279000Z"
-            },
-            "LightningTsunami": {
-                "uuid": "e96c95c3-359d-492f-bb52-03789b04c3bd",
-                "online": false,
-                "server": null,
-                "contributed": 68294760,
+            "DragonZftw": {
+                "uuid": "d45374fc-bf58-4956-ad59-c88ab5491151",
+                "online": true,
+                "server": "EU15",
+                "contributed": 26479639161,
                 "contributionRank": 45,
-                "joined": "2025-10-25T20:29:57.543000Z"
+                "joined": "2025-10-02T12:42:14.479000Z"
             },
-            "Customgr0w420": {
-                "uuid": "b31a1fc7-ce8d-4bc5-9023-597c55448f71",
+            "Grandpa_Gnome": {
+                "uuid": "40e8e914-99bf-47fa-b1a7-56eb28f9511e",
                 "online": false,
                 "server": null,
-                "contributed": 67309256,
-                "contributionRank": 46,
-                "joined": "2025-12-11T04:57:52.904000Z"
-            },
-            "HumanNotHero": {
-                "uuid": "5ae4d7e9-ddf7-4c5b-b235-5a1325048a0e",
-                "online": false,
-                "server": null,
-                "contributed": 60724628,
+                "contributed": 24407943579,
                 "contributionRank": 47,
-                "joined": "2025-10-28T03:51:37.652000Z"
+                "joined": "2025-01-23T19:03:29.500000Z"
             },
-            "EsseoS": {
-                "uuid": "0b524531-dce8-4780-b225-7b59775d162e",
+            "mocharuu": {
+                "uuid": "5f8c58f1-ff99-44bf-9185-e06fbb914155",
                 "online": false,
                 "server": null,
-                "contributed": 54249529,
-                "contributionRank": 48,
-                "joined": "2025-11-20T02:45:42.895000Z"
-            },
-            "Homnua": {
-                "uuid": "9a7977af-fab1-4880-8e4f-ffb56af71017",
-                "online": false,
-                "server": null,
-                "contributed": 53994173,
+                "contributed": 19860127685,
                 "contributionRank": 49,
-                "joined": "2025-11-22T20:53:07.232000Z"
+                "joined": "2025-07-09T22:40:02.249000Z"
             },
-            "princess_ollymar": {
-                "uuid": "9900d9c2-cf59-4f0a-b623-6277f5d1e65a",
+            "Happi": {
+                "uuid": "e40d6a88-5717-41b5-928a-ce8edc07024a",
                 "online": false,
                 "server": null,
-                "contributed": 44246569,
+                "contributed": 19197913065,
                 "contributionRank": 50,
-                "joined": "2025-12-08T23:54:52.641000Z"
+                "joined": "2025-11-12T12:58:54.875000Z"
             },
-            "Cheeto_7": {
-                "uuid": "6148f092-8cdc-4820-b999-5f993a905029",
+            "ConcaveTriangle": {
+                "uuid": "c8ff598a-7e23-436b-9ce4-cf7f0820a3d9",
                 "online": false,
                 "server": null,
-                "contributed": 35615511,
-                "contributionRank": 53,
-                "joined": "2025-10-17T23:23:34.609000Z"
-            },
-            "PolarLightx": {
-                "uuid": "0c09fc45-bcb9-4c99-a7fd-1e0fd205c7f9",
-                "online": false,
-                "server": null,
-                "contributed": 33696508,
+                "contributed": 17170484273,
                 "contributionRank": 54,
-                "joined": "2025-12-17T17:00:05.087000Z"
+                "joined": "2025-08-21T09:41:39.570000Z"
             },
-            "j_jkim": {
-                "uuid": "f183bd5f-60d1-4d0f-9ba8-efb4442095d7",
+            "Celeisa": {
+                "uuid": "867d55b6-696a-472d-b9de-338f5866edab",
+                "online": true,
+                "server": "EU3",
+                "contributed": 16047223642,
+                "contributionRank": 55,
+                "joined": "2025-10-19T15:02:06.864000Z"
+            },
+            "Windfall_": {
+                "uuid": "497c5f1f-93be-49a4-8ffd-f5ba7ddd8a87",
                 "online": false,
                 "server": null,
-                "contributed": 29264876,
-                "contributionRank": 56,
-                "joined": "2025-11-10T18:27:17.475000Z"
+                "contributed": 12495625960,
+                "contributionRank": 62,
+                "joined": "2025-06-15T01:22:51.824000Z"
             },
-            "Polarbear555": {
-                "uuid": "c6044ac0-4004-4e6e-91e1-b5c23d51927f",
+            "BabaFisi": {
+                "uuid": "7c9bb6cd-34e7-403b-943a-e27851a18798",
                 "online": false,
                 "server": null,
-                "contributed": 13636218,
-                "contributionRank": 61,
-                "joined": "2025-04-20T23:11:10.633000Z"
+                "contributed": 11971907941,
+                "contributionRank": 63,
+                "joined": "2024-06-09T18:11:01.637000Z"
             },
-            "TheSkyblockCat": {
-                "uuid": "006daaaf-2daf-4027-9e04-b98bc079cf1c",
+            "RedPandaas": {
+                "uuid": "6f44e1c5-8918-4ceb-b0f2-feb090f7c41d",
                 "online": false,
                 "server": null,
-                "contributed": 8315544,
-                "contributionRank": 64,
-                "joined": "2025-10-30T22:32:52.761000Z"
+                "contributed": 10698284681,
+                "contributionRank": 65,
+                "joined": "2023-11-11T22:31:39.787000Z"
             },
-            "CafeOwner": {
-                "uuid": "96a28eea-5ff3-4694-9f8a-f97af49c490a",
+            "Xrlylyl": {
+                "uuid": "7712e3cc-11f3-42bf-b8a0-2c6039bdc7a2",
                 "online": false,
                 "server": null,
-                "contributed": 0,
+                "contributed": 9549578407,
+                "contributionRank": 69,
+                "joined": "2024-06-09T12:12:59.501000Z"
+            },
+            "michi_4171": {
+                "uuid": "76ffd110-6405-48e6-8f57-2d1979481d7e",
+                "online": false,
+                "server": null,
+                "contributed": 8168643085,
+                "contributionRank": 74,
+                "joined": "2025-09-28T04:12:50.673000Z"
+            },
+            "WamWamBoyooo": {
+                "uuid": "fed78157-e87b-43c6-b0c5-1fcc442a3931",
+                "online": false,
+                "server": null,
+                "contributed": 7318757568,
+                "contributionRank": 75,
+                "joined": "2025-02-15T01:39:51.614000Z"
+            },
+            "anAlarmingAlarm": {
+                "uuid": "a9d61368-322b-4ac7-94f3-35013919cc7b",
+                "online": false,
+                "server": null,
+                "contributed": 4239989229,
                 "contributionRank": 85,
-                "joined": "2025-04-26T07:18:40.445000Z"
+                "joined": "2024-04-09T18:41:53.785000Z"
             },
-            "chewack0": {
-                "uuid": "06542e7f-c442-438c-a5e0-1265347a3274",
+            "mariachieggduck": {
+                "uuid": "c3a265bc-826b-4b77-9eb0-7cf932b31cc9",
+                "online": false,
+                "server": null,
+                "contributed": 3508012515,
+                "contributionRank": 87,
+                "joined": "2025-07-29T15:22:23.318000Z"
+            },
+            "NachoNik": {
+                "uuid": "87b03483-b457-47d3-acfa-bbc1b57d22d5",
+                "online": false,
+                "server": null,
+                "contributed": 2307308997,
+                "contributionRank": 93,
+                "joined": "2025-07-29T02:02:00.041000Z"
+            },
+            "BlanKzy": {
+                "uuid": "e7f102fa-b84a-4159-9175-8880fb8cb2ae",
+                "online": false,
+                "server": null,
+                "contributed": 366292635,
+                "contributionRank": 106,
+                "joined": "2025-07-08T04:40:39.411000Z"
+            },
+            "ChaoticGlitched": {
+                "uuid": "e4209e04-4332-43c2-916e-ebe871f736d7",
                 "online": false,
                 "server": null,
                 "contributed": 0,
-                "contributionRank": 92,
-                "joined": "2025-11-13T08:32:45.596000Z"
+                "contributionRank": 129,
+                "joined": "2025-09-20T13:05:13.962000Z"
+            },
+            "KindyyBee": {
+                "uuid": "2fb381a7-55c2-4a37-b7a2-90dfa37091a3",
+                "online": false,
+                "server": null,
+                "contributed": 0,
+                "contributionRank": 134,
+                "joined": "2025-12-23T21:36:08.850000Z"
             }
         },
         "recruiter": {
-            "Teinosukeee": {
-                "uuid": "e771fff7-6542-4891-9e81-df2524a8b08f",
+            "ArcuCresyn": {
+                "uuid": "9465a632-040b-479e-8458-e21191ed3fcc",
                 "online": false,
                 "server": null,
-                "contributed": 87689833,
-                "contributionRank": 39,
-                "joined": "2025-11-05T00:19:51.096000Z"
+                "contributed": 129500868117,
+                "contributionRank": 16,
+                "joined": "2025-09-02T20:00:48.177000Z"
             },
-            "blumpers": {
-                "uuid": "4851fb04-5c13-40f8-a452-248a8a1d1c1a",
+            "MxMood": {
+                "uuid": "6dbddde2-2ca0-43f2-85fb-d3ee79789030",
                 "online": false,
                 "server": null,
-                "contributed": 84136570,
-                "contributionRank": 41,
-                "joined": "2025-12-19T05:58:52.185000Z"
+                "contributed": 80037864976,
+                "contributionRank": 24,
+                "joined": "2024-10-24T03:22:30.675000Z"
             },
-            "Nicee": {
-                "uuid": "4ab87749-a622-4207-a56a-97113d5f5ccd",
+            "wo2w": {
+                "uuid": "79db93ac-2576-448b-8593-bb9d14958cfd",
                 "online": false,
                 "server": null,
-                "contributed": 36478640,
-                "contributionRank": 52,
-                "joined": "2025-11-19T00:54:00.323000Z"
+                "contributed": 67951667385,
+                "contributionRank": 26,
+                "joined": "2025-01-23T18:21:30.980000Z"
             },
-            "redbullied": {
-                "uuid": "f3c16d60-4041-4ebc-8657-bc2c58df689d",
+            "CattenXP": {
+                "uuid": "34b06ec5-0ac3-4892-865e-bb94db75a630",
                 "online": false,
                 "server": null,
-                "contributed": 26595840,
-                "contributionRank": 57,
-                "joined": "2025-12-01T09:36:17.808000Z"
+                "contributed": 56274399416,
+                "contributionRank": 29,
+                "joined": "2024-09-30T23:00:14.880000Z"
             },
-            "Szalamandra": {
-                "uuid": "ca9d76bb-de5b-45b3-bee1-62a5b036f5d2",
+            "FEN12_": {
+                "uuid": "e3d6d7f8-33f0-4002-8259-f421d76159f7",
                 "online": false,
                 "server": null,
-                "contributed": 25796943,
-                "contributionRank": 58,
-                "joined": "2024-06-24T08:21:05.709000Z"
+                "contributed": 50438906633,
+                "contributionRank": 31,
+                "joined": "2025-09-03T12:25:11.010000Z"
             },
-            "martinvdw": {
-                "uuid": "cce6ef71-b1ef-4b29-88ad-b811c4a33a4c",
-                "online": false,
-                "server": null,
-                "contributed": 15759925,
-                "contributionRank": 60,
-                "joined": "2025-11-19T17:32:48.779000Z"
-            },
-            "_dug325_": {
-                "uuid": "3cfcda21-2ed0-4b20-ac98-1cd325010eaa",
-                "online": false,
-                "server": null,
-                "contributed": 8413657,
-                "contributionRank": 63,
-                "joined": "2025-12-10T14:54:04.379000Z"
-            },
-            "defoney": {
-                "uuid": "73f7b7e5-df0f-49fa-b71c-fc2f6e2205ad",
-                "online": false,
-                "server": null,
-                "contributed": 8100857,
-                "contributionRank": 65,
-                "joined": "2025-10-25T20:21:39.594000Z"
-            },
-            "Paracelus": {
-                "uuid": "5d785136-5ce9-4e02-a1e0-b5c441cf6b96",
-                "online": false,
-                "server": null,
-                "contributed": 3735187,
-                "contributionRank": 67,
-                "joined": "2025-12-04T16:10:11.470000Z"
-            },
-            "TheIcicle": {
-                "uuid": "f48914c8-da80-4570-a398-8b2220b061c1",
+            "h5n": {
+                "uuid": "11d55cac-187b-4e5f-a012-467be2d1b79f",
                 "online": true,
-                "server": "AS3",
-                "contributed": 1756401,
-                "contributionRank": 69,
-                "joined": "2025-12-10T04:46:19.114000Z"
+                "server": "EU15",
+                "contributed": 50358146554,
+                "contributionRank": 32,
+                "joined": "2025-11-15T19:45:46.040000Z"
             },
-            "Forgetfulpass": {
-                "uuid": "74877424-feb5-4fb0-8eb6-23c229a2b823",
+            "Chaos777666": {
+                "uuid": "6e1426b6-f2ab-464f-8990-c80150044664",
                 "online": false,
                 "server": null,
-                "contributed": 1254960,
-                "contributionRank": 70,
-                "joined": "2025-10-21T02:19:44.175000Z"
+                "contributed": 43001122198,
+                "contributionRank": 36,
+                "joined": "2025-05-28T22:48:03.220000Z"
             },
-            "YaBoyGboi": {
-                "uuid": "5695e7c3-7393-4579-976f-90d634d9cd01",
+            "Nergi": {
+                "uuid": "024313b5-5f32-400e-8a0e-ac563677d808",
                 "online": false,
                 "server": null,
-                "contributed": 704602,
-                "contributionRank": 75,
-                "joined": "2025-12-01T03:45:58.344000Z"
+                "contributed": 42163344895,
+                "contributionRank": 37,
+                "joined": "2025-12-14T08:51:10.944000Z"
             },
-            "NOJO1234": {
-                "uuid": "645e54d2-59b2-4181-8394-765484029042",
+            "xBlus_": {
+                "uuid": "774551fb-4ebb-4c61-8311-c0e6bdb7023f",
                 "online": false,
                 "server": null,
-                "contributed": 536090,
+                "contributed": 33031029755,
+                "contributionRank": 39,
+                "joined": "2025-10-28T22:45:49.359000Z"
+            },
+            "Nuruko": {
+                "uuid": "b954b1f8-14f4-4fb7-a0ca-b1b8f0b3d235",
+                "online": false,
+                "server": null,
+                "contributed": 27965701034,
+                "contributionRank": 44,
+                "joined": "2025-08-18T19:14:57.789000Z"
+            },
+            "Dudelmaster": {
+                "uuid": "09b4eb6f-2d53-4edb-a44b-dbe3cf3d428a",
+                "online": false,
+                "server": null,
+                "contributed": 21718965592,
+                "contributionRank": 48,
+                "joined": "2024-11-15T12:47:53.703000Z"
+            },
+            "Smallish_Star": {
+                "uuid": "a79359af-aa92-47aa-afeb-889722156e0a",
+                "online": false,
+                "server": null,
+                "contributed": 18774236325,
+                "contributionRank": 51,
+                "joined": "2024-11-26T15:55:13.655000Z"
+            },
+            "landro_06": {
+                "uuid": "dd9335df-0866-4b18-ab1a-011d488851c0",
+                "online": false,
+                "server": null,
+                "contributed": 17270752900,
+                "contributionRank": 52,
+                "joined": "2025-12-15T15:05:51.198000Z"
+            },
+            "Asceria": {
+                "uuid": "8acf1839-1b12-4605-9614-6e9525840f3a",
+                "online": false,
+                "server": null,
+                "contributed": 17179420296,
+                "contributionRank": 53,
+                "joined": "2025-09-10T19:50:07.276000Z"
+            },
+            "iBug": {
+                "uuid": "824d13c9-b920-48cf-bb90-702da38ec886",
+                "online": false,
+                "server": null,
+                "contributed": 15288765705,
+                "contributionRank": 56,
+                "joined": "2025-08-10T12:05:01.449000Z"
+            },
+            "TrissyTiger": {
+                "uuid": "3f5bb16e-acd7-4cb4-9cea-c3141518593c",
+                "online": false,
+                "server": null,
+                "contributed": 14745963212,
+                "contributionRank": 57,
+                "joined": "2025-12-11T06:30:45.580000Z"
+            },
+            "Smmychoise": {
+                "uuid": "f2c9a32e-3d1c-48d1-80ec-6e597d3f754b",
+                "online": false,
+                "server": null,
+                "contributed": 14335348766,
+                "contributionRank": 58,
+                "joined": "2025-08-31T12:03:37.183000Z"
+            },
+            "Joshua_Feng": {
+                "uuid": "9f914344-bd7b-4608-b970-73ed164bf5a9",
+                "online": false,
+                "server": null,
+                "contributed": 13983279005,
+                "contributionRank": 59,
+                "joined": "2025-03-11T19:41:25.023000Z"
+            },
+            "TrumanM": {
+                "uuid": "e96408fb-d8ea-4684-a864-365f5b451e92",
+                "online": false,
+                "server": null,
+                "contributed": 13113276390,
+                "contributionRank": 60,
+                "joined": "2025-09-21T17:35:52.949000Z"
+            },
+            "Red_Fox_Rogue": {
+                "uuid": "f3b2c0b9-2ed1-4821-8762-b307ad32e212",
+                "online": false,
+                "server": null,
+                "contributed": 10732048068,
+                "contributionRank": 64,
+                "joined": "2024-01-06T04:35:19.827000Z"
+            },
+            "Bright_Man": {
+                "uuid": "6cb11f3d-ea8c-4d8b-aea8-20150140815c",
+                "online": false,
+                "server": null,
+                "contributed": 10261250143,
+                "contributionRank": 66,
+                "joined": "2025-04-15T05:11:52.473000Z"
+            },
+            "Stephen14414": {
+                "uuid": "63dbb032-6a27-46ba-b30a-4bfb155a3077",
+                "online": false,
+                "server": null,
+                "contributed": 8483117287,
+                "contributionRank": 72,
+                "joined": "2025-08-23T11:21:03.690000Z"
+            },
+            "Not_Creeper": {
+                "uuid": "ed61f7d5-0d32-42a1-ad92-8e768afe7bb7",
+                "online": false,
+                "server": null,
+                "contributed": 8323459945,
+                "contributionRank": 73,
+                "joined": "2025-10-07T08:10:41.309000Z"
+            },
+            "SlopeDrifter": {
+                "uuid": "63e27165-65eb-4ae1-8d52-fdf50d74a0ff",
+                "online": false,
+                "server": null,
+                "contributed": 5497635047,
                 "contributionRank": 76,
-                "joined": "2025-07-17T15:08:06.551000Z"
+                "joined": "2025-10-18T06:27:44.733000Z"
             },
-            "SweeetJade": {
-                "uuid": "44b3a59e-32d8-432f-9c60-2ca1742ccfcd",
+            "Han_a": {
+                "uuid": "7a1722ed-103c-4569-9f9a-869cdf49c96b",
                 "online": false,
                 "server": null,
-                "contributed": 327223,
+                "contributed": 5496332460,
                 "contributionRank": 77,
-                "joined": "2025-12-20T03:42:23.160000Z"
+                "joined": "2025-10-27T13:38:45.810000Z"
             },
-            "DrakeofTime": {
-                "uuid": "da9f9e0d-2e2b-4b46-9bee-45029b43b58d",
+            "Sol7317": {
+                "uuid": "f63c1f3f-d648-4959-a550-8f94bc93bb45",
                 "online": false,
                 "server": null,
-                "contributed": 200564,
+                "contributed": 5494389525,
+                "contributionRank": 78,
+                "joined": "2025-10-27T13:39:24.624000Z"
+            },
+            "Someonezzl": {
+                "uuid": "efed665c-632d-43b5-b050-5082eecc148d",
+                "online": false,
+                "server": null,
+                "contributed": 5494389525,
                 "contributionRank": 79,
-                "joined": "2025-12-14T14:50:40.635000Z"
+                "joined": "2025-10-31T15:14:39.820000Z"
             },
-            "katpile": {
-                "uuid": "e7db56ec-21da-45fc-843e-37f64817090f",
+            "CartsUp": {
+                "uuid": "f295ab3c-bc96-4821-bae3-afe62cf21224",
                 "online": false,
                 "server": null,
-                "contributed": 134778,
-                "contributionRank": 80,
-                "joined": "2025-03-20T18:43:24.498000Z"
-            },
-            "vintxgespace": {
-                "uuid": "1b85d69f-8ee0-4fc1-9829-d69d1a45d477",
-                "online": false,
-                "server": null,
-                "contributed": 4019,
+                "contributed": 4682754703,
                 "contributionRank": 82,
-                "joined": "2025-11-21T15:18:41.388000Z"
+                "joined": "2025-12-03T19:46:33.978000Z"
             },
-            "Tiger69HUN": {
-                "uuid": "8f1788b6-9c34-48da-bcb2-e61f69f29c84",
+            "DatSouperNoodle": {
+                "uuid": "d1afa044-d609-4d4a-a77c-e7478ec68986",
                 "online": false,
                 "server": null,
-                "contributed": 0,
-                "contributionRank": 87,
-                "joined": "2025-10-17T19:57:47.365000Z"
+                "contributed": 4450455520,
+                "contributionRank": 83,
+                "joined": "2025-10-28T03:47:32.564000Z"
             },
-            "max267": {
-                "uuid": "7b5da777-5ee7-4d8f-9c08-9825279c11ed",
+            "Kynnel": {
+                "uuid": "91cefc3a-fc5a-499f-a332-2538ff2ade0a",
                 "online": false,
                 "server": null,
-                "contributed": 0,
+                "contributed": 4395511620,
+                "contributionRank": 84,
+                "joined": "2025-10-29T11:44:11.639000Z"
+            },
+            "thequth": {
+                "uuid": "7f741afe-de84-48a4-a980-55fd52fd5cb4",
+                "online": false,
+                "server": null,
+                "contributed": 4212931355,
+                "contributionRank": 86,
+                "joined": "2025-12-07T13:33:29.346000Z"
+            },
+            "bellysmacker": {
+                "uuid": "953fd435-9428-4134-b035-fd17c2e7f004",
+                "online": false,
+                "server": null,
+                "contributed": 3322814761,
                 "contributionRank": 88,
-                "joined": "2025-10-22T20:10:47.511000Z"
+                "joined": "2025-10-28T15:41:16.857000Z"
             },
-            "InZorg": {
-                "uuid": "2e3422b1-54d5-4fad-968e-d216b5b40b60",
+            "DarkraiNightmare": {
+                "uuid": "58e0d0a4-6f87-4ed9-8674-8bd4d1929508",
                 "online": false,
                 "server": null,
-                "contributed": 0,
+                "contributed": 3295941220,
                 "contributionRank": 89,
-                "joined": "2025-10-25T01:07:44.124000Z"
+                "joined": "2025-07-03T23:44:10.413000Z"
             },
-            "oMentie": {
-                "uuid": "4928e8cd-c041-4ea4-8397-4c65d56a205d",
+            "Dave_9000": {
+                "uuid": "72d8acce-6be1-4e7e-bb1c-756ad55f01d9",
                 "online": false,
                 "server": null,
-                "contributed": 0,
+                "contributed": 3219585187,
                 "contributionRank": 90,
-                "joined": "2025-10-27T02:30:58.525000Z"
+                "joined": "2025-04-19T00:53:08.691000Z"
             },
-            "Etari": {
-                "uuid": "0577b2b7-0bff-45d0-839e-a48902f562ec",
+            "EatRocketFuel": {
+                "uuid": "0cef222e-49bf-4024-ab8c-03915b15cf4c",
                 "online": false,
                 "server": null,
-                "contributed": 0,
+                "contributed": 2583000731,
                 "contributionRank": 91,
-                "joined": "2025-11-11T06:04:26.863000Z"
+                "joined": "2025-10-25T18:54:10.450000Z"
             },
-            "Nimrd4": {
-                "uuid": "5994207e-e23c-4165-9bd3-f623949156bf",
+            "Pigxter": {
+                "uuid": "6aa4022a-da74-4135-a5db-bf23168f6876",
+                "online": true,
+                "server": "NA10",
+                "contributed": 2527419210,
+                "contributionRank": 92,
+                "joined": "2025-11-23T14:52:50.395000Z"
+            },
+            "Beatq": {
+                "uuid": "c7aed060-d139-4016-be38-3b4366c7f073",
                 "online": false,
                 "server": null,
-                "contributed": 0,
+                "contributed": 1786455534,
                 "contributionRank": 94,
-                "joined": "2025-12-08T12:53:34.648000Z"
+                "joined": "2025-06-13T23:38:10.965000Z"
+            },
+            "wakoalby": {
+                "uuid": "ae9cf832-04f6-4391-a1ae-6e1dd2b7882b",
+                "online": true,
+                "server": "NA7",
+                "contributed": 1698267543,
+                "contributionRank": 95,
+                "joined": "2025-12-05T12:02:28.368000Z"
+            },
+            "oJennifer": {
+                "uuid": "436a31ae-ed9d-4c08-bbee-08017ba342fe",
+                "online": false,
+                "server": null,
+                "contributed": 1686113198,
+                "contributionRank": 96,
+                "joined": "2025-11-03T02:38:46.968000Z"
+            },
+            "abouhmed": {
+                "uuid": "6f91393a-9f4a-4ad1-8003-26f106aa44f3",
+                "online": false,
+                "server": null,
+                "contributed": 843049558,
+                "contributionRank": 98,
+                "joined": "2025-11-18T01:53:38.494000Z"
+            },
+            "Random_Shroom": {
+                "uuid": "d0a7023f-5cb2-4a70-9d80-d8cd6f259273",
+                "online": false,
+                "server": null,
+                "contributed": 842516624,
+                "contributionRank": 99,
+                "joined": "2025-12-09T10:36:03.486000Z"
+            },
+            "zGuaapo": {
+                "uuid": "1148475d-3520-4b04-a248-75c8c91fe1fd",
+                "online": false,
+                "server": null,
+                "contributed": 806652777,
+                "contributionRank": 100,
+                "joined": "2024-09-22T20:42:29.847000Z"
+            },
+            "vampyluvor": {
+                "uuid": "7d995ff7-aeab-4e90-a425-3a67fec5b671",
+                "online": false,
+                "server": null,
+                "contributed": 735665794,
+                "contributionRank": 101,
+                "joined": "2025-09-23T21:23:30.846000Z"
+            },
+            "_Wahoo_": {
+                "uuid": "d6fcbe9f-68ba-47c9-badc-81e90a029884",
+                "online": false,
+                "server": null,
+                "contributed": 421236535,
+                "contributionRank": 104,
+                "joined": "2025-12-14T10:38:46.100000Z"
+            },
+            "Dziub73537": {
+                "uuid": "5372f6e4-82a5-42e1-b9f6-293717601113",
+                "online": false,
+                "server": null,
+                "contributed": 382979057,
+                "contributionRank": 105,
+                "joined": "2025-11-08T09:53:44.601000Z"
+            },
+            "PhoenixKing311": {
+                "uuid": "b0443b22-60de-4f5c-891f-d395d2d7bc8e",
+                "online": false,
+                "server": null,
+                "contributed": 66580326,
+                "contributionRank": 108,
+                "joined": "2025-07-23T13:36:31.118000Z"
+            },
+            "Adovah": {
+                "uuid": "dbe12245-325e-431d-9dab-7145ec3c1ee6",
+                "online": false,
+                "server": null,
+                "contributed": 52371721,
+                "contributionRank": 109,
+                "joined": "2025-09-25T12:23:27.008000Z"
+            },
+            "Goldenpig55": {
+                "uuid": "167ca578-632a-41aa-b9cc-7f76fd6b28f4",
+                "online": false,
+                "server": null,
+                "contributed": 28905695,
+                "contributionRank": 110,
+                "joined": "2025-10-23T19:30:32.844000Z"
+            },
+            "Indisable": {
+                "uuid": "0d1ec876-ecd7-4f27-b302-18bf9f56710e",
+                "online": false,
+                "server": null,
+                "contributed": 26023235,
+                "contributionRank": 111,
+                "joined": "2025-11-23T16:24:18.708000Z"
+            },
+            "Luuvia": {
+                "uuid": "2fa6c513-8273-4e2e-a975-06a776b1a5bd",
+                "online": false,
+                "server": null,
+                "contributed": 4423399,
+                "contributionRank": 113,
+                "joined": "2025-11-27T07:33:55.972000Z"
+            },
+            "2dh": {
+                "uuid": "5b68b490-fb04-40ac-bc65-0ad252599b2c",
+                "online": true,
+                "server": "EU3",
+                "contributed": 2837219,
+                "contributionRank": 114,
+                "joined": "2025-12-12T01:09:14.302000Z"
+            },
+            "bqtl": {
+                "uuid": "bc8fc232-7f7a-490e-b35f-525687912cf9",
+                "online": false,
+                "server": null,
+                "contributed": 483753,
+                "contributionRank": 120,
+                "joined": "2025-11-30T10:52:25.485000Z"
+            },
+            "Vegan323": {
+                "uuid": "127362dc-2360-45cd-a0ff-bee1814433e9",
+                "online": false,
+                "server": null,
+                "contributed": 73721,
+                "contributionRank": 123,
+                "joined": "2025-10-11T06:23:09.833000Z"
+            },
+            "2H0IIis": {
+                "uuid": "d50a10ab-8435-4ad0-a366-170ee12706ef",
+                "online": false,
+                "server": null,
+                "contributed": 51,
+                "contributionRank": 127,
+                "joined": "2025-12-19T20:12:07.630000Z"
             }
         },
         "recruit": {
-            "AlyssaRaceKitty": {
-                "uuid": "16a85c57-5a35-4a01-ab6d-d49675ff2339",
+            "A4sTheFarmer": {
+                "uuid": "90e2acbe-524f-4dbb-85bf-191243063cbd",
                 "online": false,
                 "server": null,
-                "contributed": 497006210,
-                "contributionRank": 20,
-                "joined": "2025-11-12T05:21:51.459000Z"
-            },
-            "Le__Nerd": {
-                "uuid": "1eca0065-9ef8-40dd-ba40-fc0beed06dc7",
-                "online": false,
-                "server": null,
-                "contributed": 39136072,
-                "contributionRank": 51,
-                "joined": "2025-11-30T13:53:19.969000Z"
-            },
-            "No_tA_Monke": {
-                "uuid": "318bf8d8-20c7-45e3-ac30-532b8915f266",
-                "online": false,
-                "server": null,
-                "contributed": 1162820,
+                "contributed": 8864279334,
                 "contributionRank": 71,
-                "joined": "2025-11-09T05:43:36.024000Z"
+                "joined": "2025-12-16T12:57:45.735000Z"
             },
-            "GidGalactic": {
-                "uuid": "07800c70-eaf4-496a-8c58-083baa19db9a",
+            "DragoniteScale": {
+                "uuid": "d8a50fea-a405-4001-bf62-dc0fe5bb0153",
                 "online": false,
                 "server": null,
-                "contributed": 1082517,
-                "contributionRank": 72,
-                "joined": "2025-12-03T03:11:21.611000Z"
+                "contributed": 1465170540,
+                "contributionRank": 97,
+                "joined": "2025-10-18T17:34:56.691000Z"
             },
-            "rockandfire": {
-                "uuid": "1347c0d9-0e8d-4d97-9f33-a38555d3fb1b",
+            "DevilShayde": {
+                "uuid": "ae3a836a-ef1f-4de2-b0e0-82f7db3a2295",
                 "online": false,
                 "server": null,
-                "contributed": 964874,
-                "contributionRank": 73,
-                "joined": "2025-12-22T02:30:54.714000Z"
+                "contributed": 732585270,
+                "contributionRank": 102,
+                "joined": "2025-11-29T07:38:05.826000Z"
             },
-            "HeckNo_": {
-                "uuid": "9347ff2e-9766-48e4-befd-aaaa19b4cb89",
+            "BennyGodz": {
+                "uuid": "2a68a7c9-55bf-40e8-bc92-836683d9b258",
                 "online": false,
                 "server": null,
-                "contributed": 227227,
-                "contributionRank": 78,
-                "joined": "2025-11-14T03:37:51.275000Z"
+                "contributed": 732585270,
+                "contributionRank": 103,
+                "joined": "2025-11-29T15:06:19.054000Z"
             },
-            "RainboDiactiv": {
-                "uuid": "fc8e2dec-16dd-4eeb-931e-4ad28777eb1c",
+            "PenShavings": {
+                "uuid": "02d79bd9-0dfe-42b6-a333-edb0c543817d",
                 "online": false,
                 "server": null,
-                "contributed": 429,
-                "contributionRank": 83,
-                "joined": "2025-12-02T04:27:18.965000Z"
+                "contributed": 12226170,
+                "contributionRank": 112,
+                "joined": "2025-12-14T09:08:11.825000Z"
             },
-            "101thDucki": {
-                "uuid": "a10b4f90-5f62-4456-93b1-97b5ee6b7ac2",
+            "mikhailthemailer": {
+                "uuid": "d1bb0f9a-6d13-44a1-ba25-4e16385b8fa2",
+                "online": false,
+                "server": null,
+                "contributed": 2119590,
+                "contributionRank": 115,
+                "joined": "2025-12-05T05:24:44.595000Z"
+            },
+            "TheBushWookieYT": {
+                "uuid": "3d12fb37-0d34-4ae3-ab3f-13e09c3b4c8f",
+                "online": false,
+                "server": null,
+                "contributed": 2042208,
+                "contributionRank": 116,
+                "joined": "2025-12-23T04:50:08.414000Z"
+            },
+            "Chibinauta": {
+                "uuid": "caceaff1-9e57-49f6-ac4a-14b8c9f09e58",
+                "online": false,
+                "server": null,
+                "contributed": 2031874,
+                "contributionRank": 117,
+                "joined": "2025-12-14T13:59:43.468000Z"
+            },
+            "AlmightyThighs": {
+                "uuid": "2eb215a7-0a6c-477c-8fbf-f323ef3ea1fb",
+                "online": false,
+                "server": null,
+                "contributed": 1116067,
+                "contributionRank": 118,
+                "joined": "2025-12-14T16:09:20.761000Z"
+            },
+            "WeepingWillaTree": {
+                "uuid": "2c6e29f1-1ade-42ea-be99-4d08e51edd1a",
+                "online": false,
+                "server": null,
+                "contributed": 828150,
+                "contributionRank": 119,
+                "joined": "2025-12-14T15:07:19.909000Z"
+            },
+            "johnkey567": {
+                "uuid": "827bf1e1-7082-4615-a39c-921199593d3d",
+                "online": false,
+                "server": null,
+                "contributed": 104662,
+                "contributionRank": 122,
+                "joined": "2025-10-15T22:28:10.115000Z"
+            },
+            "Twandhi": {
+                "uuid": "f3413504-4266-4050-90b4-75865f624948",
+                "online": false,
+                "server": null,
+                "contributed": 1433,
+                "contributionRank": 125,
+                "joined": "2025-11-17T23:35:44.874000Z"
+            },
+            "ender_non": {
+                "uuid": "cfc6b3a5-f06d-4c7a-a890-95ab59004c41",
                 "online": false,
                 "server": null,
                 "contributed": 0,
-                "contributionRank": 93,
-                "joined": "2025-11-18T00:30:04.215000Z"
+                "contributionRank": 128,
+                "joined": "2025-08-22T08:24:53.652000Z"
             },
-            "miscur": {
-                "uuid": "b92bc43d-d7d8-4d7a-ba45-2cbf669f0809",
-                "online": true,
-                "server": "AS8",
+            "Koray447": {
+                "uuid": "07ae44c0-7474-4291-a936-44e88a2d2cbc",
+                "online": false,
+                "server": null,
                 "contributed": 0,
-                "contributionRank": 95,
-                "joined": "2025-12-23T13:15:19.527000Z"
+                "contributionRank": 130,
+                "joined": "2025-10-16T21:29:19.131000Z"
+            },
+            "YeeishYeeg3893": {
+                "uuid": "17ac16de-d832-46c5-90ef-8828a053a509",
+                "online": false,
+                "server": null,
+                "contributed": 0,
+                "contributionRank": 131,
+                "joined": "2025-12-07T17:07:49.047000Z"
+            },
+            "Lachzone": {
+                "uuid": "5f4adc89-a89a-4015-a788-5fba8e510bf6",
+                "online": false,
+                "server": null,
+                "contributed": 0,
+                "contributionRank": 132,
+                "joined": "2025-12-11T07:06:24.503000Z"
+            },
+            "DieNecron": {
+                "uuid": "84d0a146-4888-484e-b952-9512d0223dd1",
+                "online": false,
+                "server": null,
+                "contributed": 0,
+                "contributionRank": 133,
+                "joined": "2025-12-20T15:32:01.396000Z"
+            },
+            "FanboydaXuxa": {
+                "uuid": "238760c2-a457-41b1-8ee7-19ac94d62c07",
+                "online": false,
+                "server": null,
+                "contributed": 0,
+                "contributionRank": 135,
+                "joined": "2025-12-24T13:13:18.355000Z"
             }
         }
     },
-    "online": 2,
+    "online": 15,
     "banner": {
-        "base": "LIME",
-        "tier": 7,
-        "structure": "imperialBanner",
+        "base": "GRAY",
+        "tier": 8,
+        "structure": "iceBanner",
         "layers": [
             {
-                "colour": "PINK",
-                "pattern": "CREEPER"
+                "colour": "CYAN",
+                "pattern": "RHOMBUS_MIDDLE"
             },
             {
-                "colour": "BLACK",
-                "pattern": "FLOWER"
+                "colour": "WHITE",
+                "pattern": "CIRCLE_MIDDLE"
             },
             {
-                "colour": "BLACK",
-                "pattern": "MOJANG"
+                "colour": "CYAN",
+                "pattern": "TRIANGLES_TOP"
             },
             {
-                "colour": "BLACK",
-                "pattern": "SKULL"
+                "colour": "WHITE",
+                "pattern": "STRAIGHT_CROSS"
+            },
+            {
+                "colour": "WHITE",
+                "pattern": "BORDER"
             }
         ]
     },
     "seasonRanks": {
+        "0": {
+            "rating": 230400,
+            "finalTerritories": 27
+        },
+        "1": {
+            "rating": 13127433,
+            "finalTerritories": 28
+        },
+        "2": {
+            "rating": 6261093,
+            "finalTerritories": 28
+        },
+        "3": {
+            "rating": 2691022,
+            "finalTerritories": 10
+        },
+        "4": {
+            "rating": 7463544,
+            "finalTerritories": 27
+        },
+        "5": {
+            "rating": 6892880,
+            "finalTerritories": 31
+        },
+        "6": {
+            "rating": 7406933,
+            "finalTerritories": 29
+        },
+        "7": {
+            "rating": 6009121,
+            "finalTerritories": 36
+        },
+        "8": {
+            "rating": 6489618,
+            "finalTerritories": 33
+        },
+        "9": {
+            "rating": 9119184,
+            "finalTerritories": 32
+        },
+        "10": {
+            "rating": 8222764,
+            "finalTerritories": 32
+        },
+        "11": {
+            "rating": 6042586,
+            "finalTerritories": 59
+        },
+        "12": {
+            "rating": 6920738,
+            "finalTerritories": 48
+        },
+        "13": {
+            "rating": 6983211,
+            "finalTerritories": 27
+        },
+        "14": {
+            "rating": 7319899,
+            "finalTerritories": 37
+        },
+        "15": {
+            "rating": 7198558,
+            "finalTerritories": 31
+        },
+        "16": {
+            "rating": 5769133,
+            "finalTerritories": 31
+        },
+        "17": {
+            "rating": 7999931,
+            "finalTerritories": 37
+        },
         "18": {
-            "rating": 2107249,
-            "finalTerritories": 4
+            "rating": 7636339,
+            "finalTerritories": 31
         },
         "19": {
-            "rating": 5140162,
-            "finalTerritories": 0
+            "rating": 9946119,
+            "finalTerritories": 33
         },
         "20": {
-            "rating": 3852599,
-            "finalTerritories": 0
+            "rating": 8472211,
+            "finalTerritories": 34
         },
         "21": {
-            "rating": 6113249,
-            "finalTerritories": 25
+            "rating": 7297365,
+            "finalTerritories": 31
         },
         "22": {
-            "rating": 33461,
-            "finalTerritories": 0
+            "rating": 5818107,
+            "finalTerritories": 29
         },
         "23": {
-            "rating": 3347945,
-            "finalTerritories": 26
+            "rating": 7683109,
+            "finalTerritories": 30
         },
         "24": {
-            "rating": 3557217,
-            "finalTerritories": 26
+            "rating": 6364082,
+            "finalTerritories": 28
         },
         "25": {
-            "rating": 352862,
-            "finalTerritories": 0
+            "rating": 6442445,
+            "finalTerritories": 35
         },
         "26": {
-            "rating": 6831,
-            "finalTerritories": 0
+            "rating": 6950743,
+            "finalTerritories": 32
         },
         "27": {
-            "rating": 139326,
-            "finalTerritories": 19
+            "rating": 5759041,
+            "finalTerritories": 29
         },
         "28": {
-            "rating": 4209640,
-            "finalTerritories": 29
+            "rating": 6075713,
+            "finalTerritories": 0
         }
     }
 }
