@@ -50,12 +50,13 @@ class TerritoryTracker(commands.Cog):
                 for territory_name, data in territory_data.items():
                     guild_data = data.get("guild")
                     guild_name = guild_data.get("name")
+                    guild_acquired_time = data.get("acquired")
                     current_territories[territory_name] = guild_name
                 if not self.previous_territories:
                     for territory_name, guild_name in current_territories.items():
                         self.previous_territories[territory_name] = {
                             "guild": guild_name,
-                            "acquired": now
+                            "acquired": guild_acquired_time
                         }
                     print(f"Initialized {len(self.previous_territories)} territories.")
                     return
@@ -64,7 +65,7 @@ class TerritoryTracker(commands.Cog):
                     old_data = self.previous_territories.get(territory)
                     old_owner = old_data.get("guild")
                     if old_owner and new_owner != old_owner:
-                        acquired_time = old_data.get("acquired", now)
+                        acquired_time = old_data.get("acquired")
                         held_duration = format_duration(now - acquired_time)
                         new_owner_count = list(current_territories.values()).count(new_owner)
                         old_owner_count = list(current_territories.values()).count(old_owner)

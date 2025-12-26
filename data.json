@@ -181,11 +181,11 @@
     },
     "Time Valley": {
         "guild": {
-            "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-            "name": "Nerfuria",
-            "prefix": "Nia"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T01:20:56.064000Z",
+        "acquired": "2025-12-26T14:50:51.044000Z",
         "location": {
             "start": [
                 -563,
@@ -217,11 +217,11 @@
     },
     "Sanctuary Bridge": {
         "guild": {
-            "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-            "name": "Nerfuria",
-            "prefix": "Nia"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T01:22:34.994000Z",
+        "acquired": "2025-12-26T14:49:32.612000Z",
         "location": {
             "start": [
                 -324,
@@ -271,11 +271,11 @@
     },
     "Nivla Woods Exit": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T03:30:30.055000Z",
+        "acquired": "2025-12-26T12:59:08.382000Z",
         "location": {
             "start": [
                 -74,
@@ -289,11 +289,11 @@
     },
     "Elkurn": {
         "guild": {
-            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
-            "name": "The Rat Colony",
-            "prefix": "RATC"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T03:33:23.475000Z",
+        "acquired": "2025-12-26T12:16:05.980000Z",
         "location": {
             "start": [
                 -98,
@@ -307,11 +307,11 @@
     },
     "Road to Elkurn": {
         "guild": {
-            "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-            "name": "Nerfuria",
-            "prefix": "Nia"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T00:05:33.395000Z",
+        "acquired": "2025-12-26T13:00:32.137000Z",
         "location": {
             "start": [
                 -89,
@@ -325,11 +325,11 @@
     },
     "Corrupted Road": {
         "guild": {
-            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
-            "name": "The Rat Colony",
-            "prefix": "RATC"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T03:36:18.703000Z",
+        "acquired": "2025-12-26T12:26:09.553000Z",
         "location": {
             "start": [
                 22,
@@ -343,11 +343,11 @@
     },
     "Detlas Suburbs": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T03:26:12.509000Z",
+        "acquired": "2025-12-26T12:51:54.226000Z",
         "location": {
             "start": [
                 300,
@@ -361,11 +361,11 @@
     },
     "Detlas": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T04:15:17.127000Z",
+        "acquired": "2025-12-26T12:17:55.358000Z",
         "location": {
             "start": [
                 402,
@@ -397,11 +397,11 @@
     },
     "Half Moon Island": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:19:53.620000Z",
+        "acquired": "2025-12-26T09:05:00.988000Z",
         "location": {
             "start": [
                 900,
@@ -415,11 +415,11 @@
     },
     "Mage Island": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:16:42.984000Z",
+        "acquired": "2025-12-26T09:06:22.823000Z",
         "location": {
             "start": [
                 805,
@@ -487,11 +487,11 @@
     },
     "Temple of Legends": {
         "guild": {
-            "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-            "name": "Adventure of the bear",
-            "prefix": "Bav"
+            "uuid": "de082d94-1835-49fd-a192-a38dc5aad374",
+            "name": "JOHNMILLER",
+            "prefix": "JONM"
         },
-        "acquired": "2025-12-26T02:26:52.202000Z",
+        "acquired": "2025-12-26T06:19:34.397000Z",
         "location": {
             "start": [
                 -631,
@@ -505,11 +505,11 @@
     },
     "Mummy's Tomb": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T02:37:04.485000Z",
+        "acquired": "2025-12-26T14:46:46.564000Z",
         "location": {
             "start": [
                 990,
@@ -523,11 +523,11 @@
     },
     "Bremminglar": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T22:36:24.634000Z",
+        "acquired": "2025-12-26T14:54:37.069000Z",
         "location": {
             "start": [
                 760,
@@ -541,11 +541,11 @@
     },
     "Lion Lair": {
         "guild": {
-            "uuid": "526e9d4e-74fc-4ee6-9ca5-f1b7add1a83f",
-            "name": "awoohgee geonyeob",
-            "prefix": "wuge"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-26T02:45:33.769000Z",
+        "acquired": "2025-12-26T14:49:36.444000Z",
         "location": {
             "start": [
                 890,
@@ -599,7 +599,7 @@
             "name": "Sequoia",
             "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T22:35:03.397000Z",
+        "acquired": "2025-12-26T12:27:41.156000Z",
         "location": {
             "start": [
                 385,
@@ -613,11 +613,11 @@
     },
     "Rooster Island": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T20:33:56.257000Z",
+        "acquired": "2025-12-26T09:09:35.558000Z",
         "location": {
             "start": [
                 -128,
@@ -631,11 +631,11 @@
     },
     "Zhight Island": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T20:39:45.062000Z",
+        "acquired": "2025-12-26T09:13:48.419000Z",
         "location": {
             "start": [
                 -727,
@@ -649,11 +649,11 @@
     },
     "Selchar": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T20:30:32.593000Z",
+        "acquired": "2025-12-26T08:51:05.444000Z",
         "location": {
             "start": [
                 -100,
@@ -667,11 +667,11 @@
     },
     "Pirate Town": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T20:42:55.719000Z",
+        "acquired": "2025-12-26T09:14:56.864000Z",
         "location": {
             "start": [
                 -750,
@@ -685,11 +685,11 @@
     },
     "Dujgon Nation": {
         "guild": {
-            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-            "name": "Aequitas",
-            "prefix": "Aeq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-26T04:00:40.153000Z",
+        "acquired": "2025-12-26T08:57:12.422000Z",
         "location": {
             "start": [
                 1000,
@@ -703,11 +703,11 @@
     },
     "Nodguj Nation": {
         "guild": {
-            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-            "name": "Aequitas",
-            "prefix": "Aeq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-26T03:47:33.744000Z",
+        "acquired": "2025-12-26T08:55:45.350000Z",
         "location": {
             "start": [
                 695,
@@ -721,11 +721,11 @@
     },
     "Maro Peaks": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T20:55:54.319000Z",
+        "acquired": "2025-12-26T09:11:13.394000Z",
         "location": {
             "start": [
                 -41,
@@ -739,11 +739,11 @@
     },
     "Tree Island": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T20:52:39.212000Z",
+        "acquired": "2025-12-26T09:15:13.512000Z",
         "location": {
             "start": [
                 -454,
@@ -757,11 +757,11 @@
     },
     "Ternaves": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T03:35:58.498000Z",
+        "acquired": "2025-12-26T12:22:03.433000Z",
         "location": {
             "start": [
                 770,
@@ -775,11 +775,11 @@
     },
     "Nesaak Transition": {
         "guild": {
-            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
-            "name": "The Rat Colony",
-            "prefix": "RATC"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T03:33:22.941000Z",
+        "acquired": "2025-12-26T12:13:20.778000Z",
         "location": {
             "start": [
                 330,
@@ -793,11 +793,11 @@
     },
     "Desolate Valley": {
         "guild": {
-            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
-            "name": "The Rat Colony",
-            "prefix": "RATC"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T03:31:57.246000Z",
+        "acquired": "2025-12-26T12:12:27.788000Z",
         "location": {
             "start": [
                 330,
@@ -811,11 +811,11 @@
     },
     "Plains Lake": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T18:05:01.218000Z",
+        "acquired": "2025-12-26T12:11:33.718000Z",
         "location": {
             "start": [
                 395,
@@ -829,11 +829,11 @@
     },
     "Mine Base Plains": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T22:55:28.254000Z",
+        "acquired": "2025-12-26T11:59:23.764000Z",
         "location": {
             "start": [
                 550,
@@ -847,11 +847,11 @@
     },
     "Cinfras": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "3a1782a7-21ac-4825-a315-7e64c3894f30",
+            "name": "Cow",
+            "prefix": "Cow"
         },
-        "acquired": "2025-12-25T21:47:26.725000Z",
+        "acquired": "2025-12-26T15:01:23.719000Z",
         "location": {
             "start": [
                 -534,
@@ -865,11 +865,11 @@
     },
     "Entrance to Olux": {
         "guild": {
-            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-            "name": "Aequitas",
-            "prefix": "Aeq"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T01:27:47.526000Z",
+        "acquired": "2025-12-26T16:10:29.353000Z",
         "location": {
             "start": [
                 -1649,
@@ -887,7 +887,7 @@
             "name": "Avicia",
             "prefix": "AVO"
         },
-        "acquired": "2025-12-26T00:58:02.242000Z",
+        "acquired": "2025-12-26T12:17:06.379000Z",
         "location": {
             "start": [
                 -1810,
@@ -901,11 +901,11 @@
     },
     "Orc Lake": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:56:43.957000Z",
+        "acquired": "2025-12-26T13:24:08.545000Z",
         "location": {
             "start": [
                 -1933,
@@ -923,7 +923,7 @@
             "name": "Dumpster",
             "prefix": "Dump"
         },
-        "acquired": "2025-12-26T02:21:02.318000Z",
+        "acquired": "2025-12-26T16:10:20.294000Z",
         "location": {
             "start": [
                 -1927,
@@ -937,11 +937,11 @@
     },
     "Meteor Crater": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:04:42.166000Z",
+        "acquired": "2025-12-26T13:07:02.234000Z",
         "location": {
             "start": [
                 -1800,
@@ -955,11 +955,11 @@
     },
     "Iron Road": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:07:33.134000Z",
+        "acquired": "2025-12-26T13:06:05.438000Z",
         "location": {
             "start": [
                 -1688,
@@ -973,11 +973,11 @@
     },
     "Goblin Plains West": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:08:31.265000Z",
+        "acquired": "2025-12-26T13:28:22.153000Z",
         "location": {
             "start": [
                 -1688,
@@ -991,11 +991,11 @@
     },
     "Llevigar Farm": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:13:22.175000Z",
+        "acquired": "2025-12-26T13:35:21.118000Z",
         "location": {
             "start": [
                 -1663,
@@ -1009,11 +1009,11 @@
     },
     "Forgotten Path": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T04:11:05.463000Z",
+        "acquired": "2025-12-26T16:05:37.982000Z",
         "location": {
             "start": [
                 -1603,
@@ -1027,11 +1027,11 @@
     },
     "Goblin Plains East": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:12:20.663000Z",
+        "acquired": "2025-12-26T13:31:57.466000Z",
         "location": {
             "start": [
                 -1603,
@@ -1045,11 +1045,11 @@
     },
     "Mantis Nest": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T14:29:17.684000Z",
+        "acquired": "2025-12-26T08:14:23.879000Z",
         "location": {
             "start": [
                 -736,
@@ -1063,11 +1063,11 @@
     },
     "Path to Cinfras": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T22:08:32.653000Z",
+        "acquired": "2025-12-26T08:21:32.080000Z",
         "location": {
             "start": [
                 -734,
@@ -1081,11 +1081,11 @@
     },
     "Gelibord": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:26:45.489000Z",
+        "acquired": "2025-12-26T16:09:56.227000Z",
         "location": {
             "start": [
                 -1050,
@@ -1099,11 +1099,11 @@
     },
     "Twisted Housing": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:53:27.262000Z",
+        "acquired": "2025-12-26T16:11:13.083000Z",
         "location": {
             "start": [
                 -1133,
@@ -1117,11 +1117,11 @@
     },
     "Entrance to Kander": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-26T03:20:01.411000Z",
+        "acquired": "2025-12-26T08:23:55.631000Z",
         "location": {
             "start": [
                 -896,
@@ -1135,11 +1135,11 @@
     },
     "Mesquis Tower": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T22:12:27.238000Z",
+        "acquired": "2025-12-26T08:27:48.632000Z",
         "location": {
             "start": [
                 -834,
@@ -1153,11 +1153,11 @@
     },
     "Kander Mines": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-26T03:48:49.672000Z",
+        "acquired": "2025-12-26T08:28:42.548000Z",
         "location": {
             "start": [
                 -785,
@@ -1171,11 +1171,11 @@
     },
     "Path to Talor": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "3a1782a7-21ac-4825-a315-7e64c3894f30",
+            "name": "Cow",
+            "prefix": "Cow"
         },
-        "acquired": "2025-12-25T13:07:21.959000Z",
+        "acquired": "2025-12-26T15:22:43.799000Z",
         "location": {
             "start": [
                 -653,
@@ -1189,11 +1189,11 @@
     },
     "Dark Forest Village": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "3a1782a7-21ac-4825-a315-7e64c3894f30",
+            "name": "Cow",
+            "prefix": "Cow"
         },
-        "acquired": "2025-12-26T03:47:48.393000Z",
+        "acquired": "2025-12-26T15:12:56.134000Z",
         "location": {
             "start": [
                 -723,
@@ -1207,11 +1207,11 @@
     },
     "Lexdale": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T04:47:26.776000Z",
+        "acquired": "2025-12-26T08:13:16.426000Z",
         "location": {
             "start": [
                 -650,
@@ -1225,11 +1225,11 @@
     },
     "Fungal Grove": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "3a1782a7-21ac-4825-a315-7e64c3894f30",
+            "name": "Cow",
+            "prefix": "Cow"
         },
-        "acquired": "2025-12-25T14:15:41.877000Z",
+        "acquired": "2025-12-26T15:11:34.248000Z",
         "location": {
             "start": [
                 -489,
@@ -1243,11 +1243,11 @@
     },
     "Decayed Basin": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T04:39:09.932000Z",
+        "acquired": "2025-12-26T08:10:27.547000Z",
         "location": {
             "start": [
                 -471,
@@ -1261,11 +1261,11 @@
     },
     "Heart of Decay": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T04:37:48.496000Z",
+        "acquired": "2025-12-26T08:11:26.905000Z",
         "location": {
             "start": [
                 -598,
@@ -1279,11 +1279,11 @@
     },
     "Mushroom Hill": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T22:48:29.411000Z",
+        "acquired": "2025-12-26T08:06:30.259000Z",
         "location": {
             "start": [
                 -288,
@@ -1297,11 +1297,11 @@
     },
     "Fallen Village": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "3a1782a7-21ac-4825-a315-7e64c3894f30",
+            "name": "Cow",
+            "prefix": "Cow"
         },
-        "acquired": "2025-12-26T03:41:27.642000Z",
+        "acquired": "2025-12-26T15:07:04.320000Z",
         "location": {
             "start": [
                 -290,
@@ -1315,11 +1315,11 @@
     },
     "Guild Hall": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T15:13:29.518000Z",
+        "acquired": "2025-12-26T13:43:18.316000Z",
         "location": {
             "start": [
                 -349,
@@ -1333,11 +1333,11 @@
     },
     "Cinfras's Small Farm": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T15:06:41.456000Z",
+        "acquired": "2025-12-26T08:00:17.603000Z",
         "location": {
             "start": [
                 -224,
@@ -1351,11 +1351,11 @@
     },
     "Gert Camp": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T04:33:05.555000Z",
+        "acquired": "2025-12-26T14:33:35.698000Z",
         "location": {
             "start": [
                 30,
@@ -1369,11 +1369,11 @@
     },
     "Jitak's Farm": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T22:25:02.313000Z",
+        "acquired": "2025-12-26T14:07:33.296000Z",
         "location": {
             "start": [
                 -122,
@@ -1423,11 +1423,11 @@
     },
     "Thanos": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-26T04:13:43.310000Z",
+        "acquired": "2025-12-26T07:15:44.606000Z",
         "location": {
             "start": [
                 51,
@@ -1441,11 +1441,11 @@
     },
     "Thanos Exit": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-26T04:06:08.464000Z",
+        "acquired": "2025-12-26T16:03:59.016000Z",
         "location": {
             "start": [
                 338,
@@ -1531,11 +1531,11 @@
     },
     "Kandon Farm": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T23:31:52.597000Z",
+        "acquired": "2025-12-26T09:12:45.957000Z",
         "location": {
             "start": [
                 710,
@@ -1639,11 +1639,11 @@
     },
     "Crater Descent": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-22T08:29:12.393000Z",
+        "acquired": "2025-12-26T16:08:04.863000Z",
         "location": {
             "start": [
                 1383,
@@ -1657,11 +1657,11 @@
     },
     "Ahmsord": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T18:49:15.963000Z",
+        "acquired": "2025-12-26T09:33:16.740000Z",
         "location": {
             "start": [
                 1163,
@@ -1675,11 +1675,11 @@
     },
     "Temple Island": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T18:51:48.932000Z",
+        "acquired": "2025-12-26T07:12:21.491000Z",
         "location": {
             "start": [
                 991,
@@ -1693,11 +1693,11 @@
     },
     "Snail Island": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T23:04:45.141000Z",
+        "acquired": "2025-12-26T09:07:48.031000Z",
         "location": {
             "start": [
                 949,
@@ -1729,11 +1729,11 @@
     },
     "Corkus Castle": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T19:41:55.981000Z",
+        "acquired": "2025-12-26T04:24:13.762000Z",
         "location": {
             "start": [
                 -1555,
@@ -1747,11 +1747,11 @@
     },
     "Fallen Factory": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:15:39.508000Z",
+        "acquired": "2025-12-26T04:48:44.056000Z",
         "location": {
             "start": [
                 -1579,
@@ -1765,11 +1765,11 @@
     },
     "Corkus City Mine": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T19:45:42.060000Z",
+        "acquired": "2025-12-26T04:41:10.394000Z",
         "location": {
             "start": [
                 -1394,
@@ -1783,11 +1783,11 @@
     },
     "Legendary Island": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:24:21.174000Z",
+        "acquired": "2025-12-26T05:08:25.148000Z",
         "location": {
             "start": [
                 -1212,
@@ -1801,11 +1801,11 @@
     },
     "Ruined Houses": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:26:47.962000Z",
+        "acquired": "2025-12-26T04:54:17.447000Z",
         "location": {
             "start": [
                 -1684,
@@ -1819,11 +1819,11 @@
     },
     "Avos Temple": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:01:04.169000Z",
+        "acquired": "2025-12-26T12:50:53.935000Z",
         "location": {
             "start": [
                 -1526,
@@ -1837,11 +1837,11 @@
     },
     "Bloody Beach": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-26T04:07:44.299000Z",
+        "acquired": "2025-12-26T05:19:51.203000Z",
         "location": {
             "start": [
                 -1376,
@@ -1855,11 +1855,11 @@
     },
     "Corkus Outskirts": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T19:52:34.728000Z",
+        "acquired": "2025-12-26T12:44:55.886000Z",
         "location": {
             "start": [
                 -1502,
@@ -1873,11 +1873,11 @@
     },
     "Frozen Fort": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T22:36:40.375000Z",
+        "acquired": "2025-12-26T09:26:39.544000Z",
         "location": {
             "start": [
                 1501,
@@ -1891,11 +1891,11 @@
     },
     "Sky Castle": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T19:14:24.973000Z",
+        "acquired": "2025-12-26T09:47:26.858000Z",
         "location": {
             "start": [
                 954,
@@ -1927,11 +1927,11 @@
     },
     "Old Coal Mine": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T23:06:26.547000Z",
+        "acquired": "2025-12-26T09:16:20.533000Z",
         "location": {
             "start": [
                 719,
@@ -1945,11 +1945,11 @@
     },
     "Dragonling Nests": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T18:59:43.474000Z",
+        "acquired": "2025-12-26T09:08:56.186000Z",
         "location": {
             "start": [
                 925,
@@ -1963,11 +1963,11 @@
     },
     "Astraulus' Tower": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T19:02:10.498000Z",
+        "acquired": "2025-12-26T09:53:12.826000Z",
         "location": {
             "start": [
                 1102,
@@ -1981,11 +1981,11 @@
     },
     "Molten Reach": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T23:17:00.161000Z",
+        "acquired": "2025-12-26T09:54:48.713000Z",
         "location": {
             "start": [
                 1251,
@@ -1999,11 +1999,11 @@
     },
     "Ahmsord Outskirts": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T23:10:20.664000Z",
+        "acquired": "2025-12-26T09:20:09.116000Z",
         "location": {
             "start": [
                 1336,
@@ -2017,11 +2017,11 @@
     },
     "Swamp Island": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T23:03:09.313000Z",
+        "acquired": "2025-12-26T09:51:53.863000Z",
         "location": {
             "start": [
                 1178,
@@ -2035,11 +2035,11 @@
     },
     "Angel Refuge": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
+            "name": "Empire of TKW",
+            "prefix": "ETKW"
         },
-        "acquired": "2025-12-25T23:14:17.856000Z",
+        "acquired": "2025-12-26T16:13:35.378000Z",
         "location": {
             "start": [
                 1354,
@@ -2053,11 +2053,11 @@
     },
     "Wybel Island": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T23:01:25.847000Z",
+        "acquired": "2025-12-26T09:42:36.315000Z",
         "location": {
             "start": [
                 1355,
@@ -2071,11 +2071,11 @@
     },
     "Central Islands": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T22:58:06.908000Z",
+        "acquired": "2025-12-26T07:01:10.409000Z",
         "location": {
             "start": [
                 1250,
@@ -2089,11 +2089,11 @@
     },
     "Sky Island Ascent": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T22:51:46.726000Z",
+        "acquired": "2025-12-26T07:06:42.248000Z",
         "location": {
             "start": [
                 1180,
@@ -2107,11 +2107,11 @@
     },
     "Sky Falls": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T23:13:42.557000Z",
+        "acquired": "2025-12-26T09:25:09.392000Z",
         "location": {
             "start": [
                 1380,
@@ -2125,11 +2125,11 @@
     },
     "Jofash Tunnel": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-26T01:19:12.371000Z",
+        "acquired": "2025-12-26T09:37:54.856000Z",
         "location": {
             "start": [
                 1304,
@@ -2143,11 +2143,11 @@
     },
     "Jofash Docks": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:49:28.417000Z",
+        "acquired": "2025-12-26T09:36:11.511000Z",
         "location": {
             "start": [
                 1178,
@@ -2161,11 +2161,11 @@
     },
     "Santa's Hideout": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:13:28.333000Z",
+        "acquired": "2025-12-26T09:00:20.095000Z",
         "location": {
             "start": [
                 1057,
@@ -2215,11 +2215,11 @@
     },
     "Cinfras Outskirts": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "3a1782a7-21ac-4825-a315-7e64c3894f30",
+            "name": "Cow",
+            "prefix": "Cow"
         },
-        "acquired": "2025-12-26T03:40:25.763000Z",
+        "acquired": "2025-12-26T15:15:55.529000Z",
         "location": {
             "start": [
                 -392,
@@ -2233,11 +2233,11 @@
     },
     "Rodoroc": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T05:05:34.205000Z",
+        "acquired": "2025-12-26T16:04:34.433000Z",
         "location": {
             "start": [
                 1200,
@@ -2251,11 +2251,11 @@
     },
     "Llevigar": {
         "guild": {
-            "uuid": "7027173f-43e1-47cd-a6c2-1ac3092e72ba",
-            "name": "Dumpster",
-            "prefix": "Dump"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T02:15:59.132000Z",
+        "acquired": "2025-12-26T16:10:39.673000Z",
         "location": {
             "start": [
                 -1800,
@@ -2269,11 +2269,11 @@
     },
     "Regular Island": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:52:44.088000Z",
+        "acquired": "2025-12-26T09:24:12.681000Z",
         "location": {
             "start": [
                 1202,
@@ -2287,11 +2287,11 @@
     },
     "Herb Cave": {
         "guild": {
-            "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-            "name": "Adventure of the bear",
-            "prefix": "Bav"
+            "uuid": "de082d94-1835-49fd-a192-a38dc5aad374",
+            "name": "JOHNMILLER",
+            "prefix": "JONM"
         },
-        "acquired": "2025-12-25T15:15:38.362000Z",
+        "acquired": "2025-12-26T05:58:31.406000Z",
         "location": {
             "start": [
                 -448,
@@ -2305,11 +2305,11 @@
     },
     "Twisted Ridge": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:31:57.439000Z",
+        "acquired": "2025-12-26T16:02:32.256000Z",
         "location": {
             "start": [
                 -1020,
@@ -2323,11 +2323,11 @@
     },
     "Icy Island": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:10:28.519000Z",
+        "acquired": "2025-12-26T08:58:56.160000Z",
         "location": {
             "start": [
                 1001,
@@ -2341,11 +2341,11 @@
     },
     "Royal Gate": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:23:06.133000Z",
+        "acquired": "2025-12-26T05:14:30.381000Z",
         "location": {
             "start": [
                 -1822,
@@ -2363,7 +2363,7 @@
             "name": "Avicia",
             "prefix": "AVO"
         },
-        "acquired": "2025-12-25T23:45:19.740000Z",
+        "acquired": "2025-12-26T14:31:07.644000Z",
         "location": {
             "start": [
                 -1390,
@@ -2395,11 +2395,11 @@
     },
     "Abandoned Pass": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T22:48:43.307000Z",
+        "acquired": "2025-12-26T12:03:50.783000Z",
         "location": {
             "start": [
                 881,
@@ -2413,11 +2413,11 @@
     },
     "Lost Atoll": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T20:45:54.617000Z",
+        "acquired": "2025-12-26T09:16:38.906000Z",
         "location": {
             "start": [
                 -472,
@@ -2431,11 +2431,11 @@
     },
     "Southern Outpost": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-26T03:45:57.490000Z",
+        "acquired": "2025-12-26T13:13:31.498000Z",
         "location": {
             "start": [
                 -1258,
@@ -2449,11 +2449,11 @@
     },
     "Corkus Sea Cove": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:17:11.673000Z",
+        "acquired": "2025-12-26T04:44:53.755000Z",
         "location": {
             "start": [
                 -1578,
@@ -2467,11 +2467,11 @@
     },
     "Worm Tunnel": {
         "guild": {
-            "uuid": "4e419ae5-da78-43f0-96f0-6c6b04aa884e",
-            "name": "Horthy Miklos Hadserege",
-            "prefix": "HMH"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-25T20:34:25.036000Z",
+        "acquired": "2025-12-26T09:47:01.451000Z",
         "location": {
             "start": [
                 641,
@@ -2485,11 +2485,11 @@
     },
     "Grey Ruins": {
         "guild": {
-            "uuid": "4e419ae5-da78-43f0-96f0-6c6b04aa884e",
-            "name": "Horthy Miklos Hadserege",
-            "prefix": "HMH"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-25T20:30:59.822000Z",
+        "acquired": "2025-12-26T09:44:34.429000Z",
         "location": {
             "start": [
                 683,
@@ -2503,11 +2503,11 @@
     },
     "Forgotten Town": {
         "guild": {
-            "uuid": "4e419ae5-da78-43f0-96f0-6c6b04aa884e",
-            "name": "Horthy Miklos Hadserege",
-            "prefix": "HMH"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-25T20:30:48.858000Z",
+        "acquired": "2025-12-26T09:41:55.584000Z",
         "location": {
             "start": [
                 480,
@@ -2521,11 +2521,11 @@
     },
     "Forest of Eyes": {
         "guild": {
-            "uuid": "4e419ae5-da78-43f0-96f0-6c6b04aa884e",
-            "name": "Horthy Miklos Hadserege",
-            "prefix": "HMH"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-25T20:52:41.718000Z",
+        "acquired": "2025-12-26T09:21:57.680000Z",
         "location": {
             "start": [
                 813,
@@ -2539,11 +2539,11 @@
     },
     "Sinister Forest": {
         "guild": {
-            "uuid": "ca60ea65-7542-422c-a1d1-57bf9e7a3a24",
-            "name": "Wrath Of Poseidon",
-            "prefix": "Oce"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-26T00:01:39.507000Z",
+        "acquired": "2025-12-26T09:25:11.860000Z",
         "location": {
             "start": [
                 815,
@@ -2557,11 +2557,11 @@
     },
     "Lutho": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-26T03:45:14.844000Z",
+        "acquired": "2025-12-26T16:09:10.563000Z",
         "location": {
             "start": [
                 936,
@@ -2575,11 +2575,11 @@
     },
     "Paths of Sludge": {
         "guild": {
-            "uuid": "ca60ea65-7542-422c-a1d1-57bf9e7a3a24",
-            "name": "Wrath Of Poseidon",
-            "prefix": "Oce"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-26T00:15:47.218000Z",
+        "acquired": "2025-12-26T08:44:06.276000Z",
         "location": {
             "start": [
                 1040,
@@ -2593,11 +2593,11 @@
     },
     "Toxic Drip": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-26T03:52:30.861000Z",
+        "acquired": "2025-12-26T12:24:22.022000Z",
         "location": {
             "start": [
                 893,
@@ -2611,11 +2611,11 @@
     },
     "Toxic Caves": {
         "guild": {
-            "uuid": "4e419ae5-da78-43f0-96f0-6c6b04aa884e",
-            "name": "Horthy Miklos Hadserege",
-            "prefix": "HMH"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-25T12:27:48.447000Z",
+        "acquired": "2025-12-26T08:57:52.471000Z",
         "location": {
             "start": [
                 1017,
@@ -2629,11 +2629,11 @@
     },
     "Gateway to Nothing": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-26T03:57:35.014000Z",
+        "acquired": "2025-12-26T08:51:27.802000Z",
         "location": {
             "start": [
                 1120,
@@ -2647,11 +2647,11 @@
     },
     "Void Valley": {
         "guild": {
-            "uuid": "4e419ae5-da78-43f0-96f0-6c6b04aa884e",
-            "name": "Horthy Miklos Hadserege",
-            "prefix": "HMH"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-25T12:32:11.106000Z",
+        "acquired": "2025-12-26T09:30:51.846000Z",
         "location": {
             "start": [
                 1082,
@@ -2665,11 +2665,11 @@
     },
     "Final Step": {
         "guild": {
-            "uuid": "4e419ae5-da78-43f0-96f0-6c6b04aa884e",
-            "name": "Horthy Miklos Hadserege",
-            "prefix": "HMH"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-25T12:31:30.670000Z",
+        "acquired": "2025-12-26T09:32:25.389000Z",
         "location": {
             "start": [
                 1388,
@@ -2683,11 +2683,11 @@
     },
     "Bizarre Passage": {
         "guild": {
-            "uuid": "4e419ae5-da78-43f0-96f0-6c6b04aa884e",
-            "name": "Horthy Miklos Hadserege",
-            "prefix": "HMH"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-25T12:51:03.826000Z",
+        "acquired": "2025-12-26T09:34:09.909000Z",
         "location": {
             "start": [
                 1187,
@@ -2701,11 +2701,11 @@
     },
     "The Gate": {
         "guild": {
-            "uuid": "4e419ae5-da78-43f0-96f0-6c6b04aa884e",
-            "name": "Horthy Miklos Hadserege",
-            "prefix": "HMH"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-25T12:51:23.159000Z",
+        "acquired": "2025-12-26T09:37:40.187000Z",
         "location": {
             "start": [
                 1350,
@@ -2827,11 +2827,11 @@
     },
     "Light Peninsula": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-26T01:08:53.987000Z",
+        "acquired": "2025-12-26T09:21:21.491000Z",
         "location": {
             "start": [
                 -951,
@@ -3007,11 +3007,11 @@
     },
     "Tempo Town": {
         "guild": {
-            "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-            "name": "Nerfuria",
-            "prefix": "Nia"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T01:19:27.521000Z",
+        "acquired": "2025-12-26T14:52:26.998000Z",
         "location": {
             "start": [
                 -357,
@@ -3043,11 +3043,11 @@
     },
     "Alekin": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T03:31:38.661000Z",
+        "acquired": "2025-12-26T12:29:59.549000Z",
         "location": {
             "start": [
                 -175,
@@ -3061,11 +3061,11 @@
     },
     "Blooming Boulders": {
         "guild": {
-            "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-            "name": "Nerfuria",
-            "prefix": "Nia"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T00:03:44.055000Z",
+        "acquired": "2025-12-26T14:53:48.292000Z",
         "location": {
             "start": [
                 -350,
@@ -3097,11 +3097,11 @@
     },
     "Roots of Corruption": {
         "guild": {
-            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
-            "name": "The Rat Colony",
-            "prefix": "RATC"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T03:29:06.667000Z",
+        "acquired": "2025-12-26T12:17:04.689000Z",
         "location": {
             "start": [
                 106,
@@ -3115,11 +3115,11 @@
     },
     "Akias Ruins": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T03:28:51.649000Z",
+        "acquired": "2025-12-26T12:57:39.414000Z",
         "location": {
             "start": [
                 29,
@@ -3133,11 +3133,11 @@
     },
     "Corrupted Orchard": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T03:27:48.183000Z",
+        "acquired": "2025-12-26T12:56:15.968000Z",
         "location": {
             "start": [
                 188,
@@ -3241,11 +3241,11 @@
     },
     "Florist's Hut": {
         "guild": {
-            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
-            "name": "The Rat Colony",
-            "prefix": "RATC"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T03:37:26.927000Z",
+        "acquired": "2025-12-26T05:00:42.850000Z",
         "location": {
             "start": [
                 110,
@@ -3277,11 +3277,11 @@
     },
     "Frosty Spikes": {
         "guild": {
-            "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-            "name": "Adventure of the bear",
-            "prefix": "Bav"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T20:36:20.236000Z",
+        "acquired": "2025-12-26T04:56:05.371000Z",
         "location": {
             "start": [
                 70,
@@ -3331,11 +3331,11 @@
     },
     "Abandoned Lumberyard": {
         "guild": {
-            "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-            "name": "Adventure of the bear",
-            "prefix": "Bav"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T20:37:13.227000Z",
+        "acquired": "2025-12-26T04:57:36.726000Z",
         "location": {
             "start": [
                 -140,
@@ -3385,11 +3385,11 @@
     },
     "Apprentice Huts": {
         "guild": {
-            "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-            "name": "Adventure of the bear",
-            "prefix": "Bav"
+            "uuid": "de082d94-1835-49fd-a192-a38dc5aad374",
+            "name": "JOHNMILLER",
+            "prefix": "JONM"
         },
-        "acquired": "2025-12-25T15:21:33.376000Z",
+        "acquired": "2025-12-26T05:47:13.381000Z",
         "location": {
             "start": [
                 -600,
@@ -3403,11 +3403,11 @@
     },
     "Iboju Village": {
         "guild": {
-            "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-            "name": "Adventure of the bear",
-            "prefix": "Bav"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-26T02:31:39.847000Z",
+        "acquired": "2025-12-26T10:14:11.035000Z",
         "location": {
             "start": [
                 -671,
@@ -3421,11 +3421,11 @@
     },
     "Troms Lake": {
         "guild": {
-            "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-            "name": "Adventure of the bear",
-            "prefix": "Bav"
+            "uuid": "de082d94-1835-49fd-a192-a38dc5aad374",
+            "name": "JOHNMILLER",
+            "prefix": "JONM"
         },
-        "acquired": "2025-12-25T15:10:29.444000Z",
+        "acquired": "2025-12-26T05:52:21.012000Z",
         "location": {
             "start": [
                 -601,
@@ -3439,11 +3439,11 @@
     },
     "Troms": {
         "guild": {
-            "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-            "name": "Nerfuria",
-            "prefix": "Nia"
+            "uuid": "de082d94-1835-49fd-a192-a38dc5aad374",
+            "name": "JOHNMILLER",
+            "prefix": "JONM"
         },
-        "acquired": "2025-12-25T00:25:03.442000Z",
+        "acquired": "2025-12-26T06:16:42.353000Z",
         "location": {
             "start": [
                 -726,
@@ -3457,11 +3457,11 @@
     },
     "Rymek": {
         "guild": {
-            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
-            "name": "Avicia",
-            "prefix": "AVO"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-23T22:09:07.331000Z",
+        "acquired": "2025-12-26T09:58:28.542000Z",
         "location": {
             "start": [
                 1210,
@@ -3475,11 +3475,11 @@
     },
     "Sunrise Plateau": {
         "guild": {
-            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
-            "name": "Avicia",
-            "prefix": "AVO"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-23T22:28:04.146000Z",
+        "acquired": "2025-12-26T09:55:41.153000Z",
         "location": {
             "start": [
                 1211,
@@ -3493,11 +3493,11 @@
     },
     "Eagle Tribe": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-26T04:17:04.906000Z",
+        "acquired": "2025-12-26T09:51:16.159000Z",
         "location": {
             "start": [
                 1479,
@@ -3511,11 +3511,11 @@
     },
     "Ruined Prospect": {
         "guild": {
-            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
-            "name": "Avicia",
-            "prefix": "AVO"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-23T22:07:55.644000Z",
+        "acquired": "2025-12-26T10:00:12.814000Z",
         "location": {
             "start": [
                 1209,
@@ -3529,11 +3529,11 @@
     },
     "Sunset Plateau": {
         "guild": {
-            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
-            "name": "The Rat Colony",
-            "prefix": "RATC"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-26T01:33:34.808000Z",
+        "acquired": "2025-12-26T09:56:54.882000Z",
         "location": {
             "start": [
                 1211,
@@ -3547,11 +3547,11 @@
     },
     "Owl Tribe": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-26T04:16:02.091000Z",
+        "acquired": "2025-12-26T09:54:04.799000Z",
         "location": {
             "start": [
                 1190,
@@ -3565,11 +3565,11 @@
     },
     "Invaded Barracks": {
         "guild": {
-            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-            "name": "Aequitas",
-            "prefix": "Aeq"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-26T01:04:20.688000Z",
+        "acquired": "2025-12-26T14:41:01.975000Z",
         "location": {
             "start": [
                 1260,
@@ -3583,11 +3583,11 @@
     },
     "Barren Sands": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T03:09:48.241000Z",
+        "acquired": "2025-12-26T14:42:24.905000Z",
         "location": {
             "start": [
                 1260,
@@ -3601,11 +3601,11 @@
     },
     "Accursed Dunes": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T03:13:11.069000Z",
+        "acquired": "2025-12-26T14:39:29.512000Z",
         "location": {
             "start": [
                 1450,
@@ -3619,11 +3619,11 @@
     },
     "Cascading Oasis": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T02:42:04.561000Z",
+        "acquired": "2025-12-26T14:45:14.429000Z",
         "location": {
             "start": [
                 990,
@@ -3637,11 +3637,11 @@
     },
     "Gloopy Cave": {
         "guild": {
-            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
-            "name": "Titans Valor",
-            "prefix": "ANO"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T08:18:23.881000Z",
+        "acquired": "2025-12-26T14:43:56.084000Z",
         "location": {
             "start": [
                 1195,
@@ -3655,11 +3655,11 @@
     },
     "Ruined Villa": {
         "guild": {
-            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
-            "name": "Avicia",
-            "prefix": "AVO"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-23T23:01:24.941000Z",
+        "acquired": "2025-12-26T14:36:38.063000Z",
         "location": {
             "start": [
                 1060,
@@ -3673,11 +3673,11 @@
     },
     "Ancient Excavation": {
         "guild": {
-            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
-            "name": "Avicia",
-            "prefix": "AVO"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-23T22:32:09.231000Z",
+        "acquired": "2025-12-26T14:35:43.585000Z",
         "location": {
             "start": [
                 1210,
@@ -3695,7 +3695,7 @@
             "name": "Black Fangs",
             "prefix": "BFS"
         },
-        "acquired": "2025-12-25T19:49:03.248000Z",
+        "acquired": "2025-12-26T14:50:58.802000Z",
         "location": {
             "start": [
                 1050,
@@ -3709,11 +3709,11 @@
     },
     "Dusty Pit": {
         "guild": {
-            "uuid": "6f1e973b-5f2e-49f2-9203-977983ec991d",
-            "name": "BuggCraft",
-            "prefix": "BUGG"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T02:35:24.558000Z",
+        "acquired": "2025-12-26T14:48:06.080000Z",
         "location": {
             "start": [
                 990,
@@ -3727,11 +3727,11 @@
     },
     "Almuj Slums": {
         "guild": {
-            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
-            "name": "The Rat Colony",
-            "prefix": "RATC"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T04:24:59.463000Z",
+        "acquired": "2025-12-26T14:34:52.440000Z",
         "location": {
             "start": [
                 1040,
@@ -3749,7 +3749,7 @@
             "name": "Sequoia",
             "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T22:41:55.861000Z",
+        "acquired": "2025-12-26T12:23:26.328000Z",
         "location": {
             "start": [
                 775,
@@ -3763,11 +3763,11 @@
     },
     "Entrance to Almuj": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T22:39:13.367000Z",
+        "acquired": "2025-12-26T14:52:47.983000Z",
         "location": {
             "start": [
                 750,
@@ -3785,7 +3785,7 @@
             "name": "Sequoia",
             "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T22:43:24.436000Z",
+        "acquired": "2025-12-26T12:24:52.694000Z",
         "location": {
             "start": [
                 775,
@@ -3799,11 +3799,11 @@
     },
     "Savannah Plains": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T22:40:49.338000Z",
+        "acquired": "2025-12-26T14:53:50.772000Z",
         "location": {
             "start": [
                 750,
@@ -3907,11 +3907,11 @@
     },
     "Bear Zoo": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T20:36:48.770000Z",
+        "acquired": "2025-12-26T09:10:49.057000Z",
         "location": {
             "start": [
                 -409,
@@ -3925,11 +3925,11 @@
     },
     "Durum Barley Islet": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:37:04.463000Z",
+        "acquired": "2025-12-26T09:02:33.920000Z",
         "location": {
             "start": [
                 537,
@@ -3943,11 +3943,11 @@
     },
     "Durum Oat Islet": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:31:02.096000Z",
+        "acquired": "2025-12-26T09:05:23.338000Z",
         "location": {
             "start": [
                 482,
@@ -3961,11 +3961,11 @@
     },
     "Durum Malt Islet": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:34:08.295000Z",
+        "acquired": "2025-12-26T09:06:25.122000Z",
         "location": {
             "start": [
                 390,
@@ -3979,11 +3979,11 @@
     },
     "Skien's Island": {
         "guild": {
-            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-            "name": "Aequitas",
-            "prefix": "Aeq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-26T03:08:40.359000Z",
+        "acquired": "2025-12-26T08:52:32.724000Z",
         "location": {
             "start": [
                 527,
@@ -3997,11 +3997,11 @@
     },
     "Lifeless Forest": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:43:59.902000Z",
+        "acquired": "2025-12-26T10:12:24.448000Z",
         "location": {
             "start": [
                 870,
@@ -4015,11 +4015,11 @@
     },
     "Disturbed Crypt": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:42:40.005000Z",
+        "acquired": "2025-12-26T10:11:05.316000Z",
         "location": {
             "start": [
                 870,
@@ -4033,11 +4033,11 @@
     },
     "Derelict Mansion": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:45:47.288000Z",
+        "acquired": "2025-12-26T10:14:12.298000Z",
         "location": {
             "start": [
                 870,
@@ -4051,11 +4051,11 @@
     },
     "Dreary Docks": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:40:44.811000Z",
+        "acquired": "2025-12-26T10:15:34.402000Z",
         "location": {
             "start": [
                 870,
@@ -4069,11 +4069,11 @@
     },
     "Volcanic Excavation": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:27:58.848000Z",
+        "acquired": "2025-12-26T05:34:58.137000Z",
         "location": {
             "start": [
                 -1164,
@@ -4087,11 +4087,11 @@
     },
     "Black Road": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T03:34:14.754000Z",
+        "acquired": "2025-12-26T12:20:39.069000Z",
         "location": {
             "start": [
                 770,
@@ -4105,11 +4105,11 @@
     },
     "Abandoned Mines Entrance": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T22:47:09.968000Z",
+        "acquired": "2025-12-26T12:01:08.903000Z",
         "location": {
             "start": [
                 655,
@@ -4123,11 +4123,11 @@
     },
     "Mining Base Camp": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T22:49:45.012000Z",
+        "acquired": "2025-12-26T12:02:19.155000Z",
         "location": {
             "start": [
                 880,
@@ -4141,11 +4141,11 @@
     },
     "Abandoned Mines": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T22:52:41.628000Z",
+        "acquired": "2025-12-26T12:05:01.268000Z",
         "location": {
             "start": [
                 870,
@@ -4159,11 +4159,11 @@
     },
     "Corrupted River": {
         "guild": {
-            "uuid": "ddbdac33-9f3c-4e25-af92-2071d127a246",
-            "name": "The Rat Colony",
-            "prefix": "RATC"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T03:30:10.166000Z",
+        "acquired": "2025-12-26T12:14:24.932000Z",
         "location": {
             "start": [
                 75,
@@ -4177,11 +4177,11 @@
     },
     "Essren's Hut": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T03:33:02.539000Z",
+        "acquired": "2025-12-26T12:19:15.045000Z",
         "location": {
             "start": [
                 545,
@@ -4195,11 +4195,11 @@
     },
     "Corrupted Warfront": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T23:04:16.747000Z",
+        "acquired": "2025-12-26T12:18:54.130000Z",
         "location": {
             "start": [
                 115,
@@ -4217,7 +4217,7 @@
             "name": "Sequoia",
             "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T22:58:39.683000Z",
+        "acquired": "2025-12-26T12:53:37.856000Z",
         "location": {
             "start": [
                 200,
@@ -4235,7 +4235,7 @@
             "name": "Sequoia",
             "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T23:47:32.834000Z",
+        "acquired": "2025-12-26T12:54:54.991000Z",
         "location": {
             "start": [
                 25,
@@ -4249,11 +4249,11 @@
     },
     "Entrance to Gavel": {
         "guild": {
-            "uuid": "7027173f-43e1-47cd-a6c2-1ac3092e72ba",
-            "name": "Dumpster",
-            "prefix": "Dump"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T02:38:30.011000Z",
+        "acquired": "2025-12-26T16:06:45.761000Z",
         "location": {
             "start": [
                 -2048,
@@ -4267,11 +4267,11 @@
     },
     "Llevigar Gate": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:51:00.220000Z",
+        "acquired": "2025-12-26T16:05:38.862000Z",
         "location": {
             "start": [
                 -1932,
@@ -4285,11 +4285,11 @@
     },
     "Sanguine Spider Den": {
         "guild": {
-            "uuid": "7027173f-43e1-47cd-a6c2-1ac3092e72ba",
-            "name": "Dumpster",
-            "prefix": "Dump"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T02:28:44.394000Z",
+        "acquired": "2025-12-26T16:05:20.350000Z",
         "location": {
             "start": [
                 -2060,
@@ -4303,11 +4303,11 @@
     },
     "Llevigar Stables": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "7027173f-43e1-47cd-a6c2-1ac3092e72ba",
+            "name": "Dumpster",
+            "prefix": "Dump"
         },
-        "acquired": "2025-12-26T03:51:54.369000Z",
+        "acquired": "2025-12-26T16:08:30.708000Z",
         "location": {
             "start": [
                 -2059,
@@ -4321,11 +4321,11 @@
     },
     "Cliffhearth Orc Camp": {
         "guild": {
-            "uuid": "7027173f-43e1-47cd-a6c2-1ac3092e72ba",
-            "name": "Dumpster",
-            "prefix": "Dump"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T02:27:26.669000Z",
+        "acquired": "2025-12-26T16:04:06.632000Z",
         "location": {
             "start": [
                 -2060,
@@ -4357,11 +4357,11 @@
     },
     "Trunkstump Goblin Camp": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "7027173f-43e1-47cd-a6c2-1ac3092e72ba",
+            "name": "Dumpster",
+            "prefix": "Dump"
         },
-        "acquired": "2025-12-26T03:52:53.649000Z",
+        "acquired": "2025-12-26T16:11:53.599000Z",
         "location": {
             "start": [
                 -2059,
@@ -4375,11 +4375,11 @@
     },
     "Meteor Trail": {
         "guild": {
-            "uuid": "7027173f-43e1-47cd-a6c2-1ac3092e72ba",
-            "name": "Dumpster",
-            "prefix": "Dump"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T02:30:27.375000Z",
+        "acquired": "2025-12-26T16:02:19.952000Z",
         "location": {
             "start": [
                 -2060,
@@ -4393,11 +4393,11 @@
     },
     "Brigand Outpost": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:57:48.157000Z",
+        "acquired": "2025-12-26T12:23:24.751000Z",
         "location": {
             "start": [
                 -2060,
@@ -4411,11 +4411,11 @@
     },
     "Stonecave Orc Camp": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:53:57.383000Z",
+        "acquired": "2025-12-26T13:23:13.520000Z",
         "location": {
             "start": [
                 -2059,
@@ -4429,11 +4429,11 @@
     },
     "Collapsed Emerald Mine": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:02:34.717000Z",
+        "acquired": "2025-12-26T12:22:33.748000Z",
         "location": {
             "start": [
                 -2060,
@@ -4447,11 +4447,11 @@
     },
     "Mudspring Orc Camp": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:58:44.229000Z",
+        "acquired": "2025-12-26T12:26:30.862000Z",
         "location": {
             "start": [
                 -2059,
@@ -4465,11 +4465,11 @@
     },
     "Floral Peaks": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:09:30.932000Z",
+        "acquired": "2025-12-26T12:27:21.621000Z",
         "location": {
             "start": [
                 -1955,
@@ -4483,11 +4483,11 @@
     },
     "Ogre Den": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:06:15.683000Z",
+        "acquired": "2025-12-26T12:21:39.340000Z",
         "location": {
             "start": [
                 -2060,
@@ -4501,11 +4501,11 @@
     },
     "Witching Road": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:02:30.807000Z",
+        "acquired": "2025-12-26T10:46:05.153000Z",
         "location": {
             "start": [
                 -2171,
@@ -4519,11 +4519,11 @@
     },
     "Maiden Tower": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:01:05.079000Z",
+        "acquired": "2025-12-26T12:31:42.190000Z",
         "location": {
             "start": [
                 -2059,
@@ -4559,7 +4559,7 @@
             "name": "Avicia",
             "prefix": "AVO"
         },
-        "acquired": "2025-12-25T22:24:11.737000Z",
+        "acquired": "2025-12-26T10:45:09.344000Z",
         "location": {
             "start": [
                 -1955,
@@ -4573,11 +4573,11 @@
     },
     "Bloody Trail": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:57:44.300000Z",
+        "acquired": "2025-12-26T13:51:07.773000Z",
         "location": {
             "start": [
                 -1519,
@@ -4591,11 +4591,11 @@
     },
     "Lizardman Lake": {
         "guild": {
-            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-            "name": "Aequitas",
-            "prefix": "Aeq"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T01:29:18.876000Z",
+        "acquired": "2025-12-26T15:57:24.189000Z",
         "location": {
             "start": [
                 -1519,
@@ -4627,11 +4627,11 @@
     },
     "Lizardman Camp": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T03:59:24.252000Z",
+        "acquired": "2025-12-26T16:08:47.099000Z",
         "location": {
             "start": [
                 -1649,
@@ -4645,11 +4645,11 @@
     },
     "Swamp Mountain Arch": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:00:30.622000Z",
+        "acquired": "2025-12-26T12:32:35.983000Z",
         "location": {
             "start": [
                 -1776,
@@ -4663,11 +4663,11 @@
     },
     "Shady Shack": {
         "guild": {
-            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-            "name": "Aequitas",
-            "prefix": "Aeq"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:04:50.091000Z",
+        "acquired": "2025-12-26T13:46:49.956000Z",
         "location": {
             "start": [
                 -1776,
@@ -4721,7 +4721,7 @@
             "name": "Avicia",
             "prefix": "AVO"
         },
-        "acquired": "2025-12-25T22:19:16.258000Z",
+        "acquired": "2025-12-26T10:18:52.933000Z",
         "location": {
             "start": [
                 -2065,
@@ -4739,7 +4739,7 @@
             "name": "Avicia",
             "prefix": "AVO"
         },
-        "acquired": "2025-12-25T22:22:35.471000Z",
+        "acquired": "2025-12-26T12:18:18.165000Z",
         "location": {
             "start": [
                 -1981,
@@ -4753,11 +4753,11 @@
     },
     "Karoc Quarry": {
         "guild": {
-            "uuid": "7027173f-43e1-47cd-a6c2-1ac3092e72ba",
-            "name": "Dumpster",
-            "prefix": "Dump"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T02:35:52.362000Z",
+        "acquired": "2025-12-26T16:02:23.798000Z",
         "location": {
             "start": [
                 -1776,
@@ -4771,11 +4771,11 @@
     },
     "Harnort Compound": {
         "guild": {
-            "uuid": "7027173f-43e1-47cd-a6c2-1ac3092e72ba",
-            "name": "Dumpster",
-            "prefix": "Dump"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T02:36:59.066000Z",
+        "acquired": "2025-12-26T14:25:14.814000Z",
         "location": {
             "start": [
                 -1391,
@@ -4789,11 +4789,11 @@
     },
     "Shineridge Orc Camp": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:17:10.818000Z",
+        "acquired": "2025-12-26T16:06:58.341000Z",
         "location": {
             "start": [
                 -1776,
@@ -4811,7 +4811,7 @@
             "name": "Avicia",
             "prefix": "AVO"
         },
-        "acquired": "2025-12-26T00:29:14.982000Z",
+        "acquired": "2025-12-26T14:23:57.638000Z",
         "location": {
             "start": [
                 -1391,
@@ -4825,11 +4825,11 @@
     },
     "Sunspark Orc Camp": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:01:27.358000Z",
+        "acquired": "2025-12-26T12:28:25.630000Z",
         "location": {
             "start": [
                 -1930,
@@ -4843,11 +4843,11 @@
     },
     "Sablestone Orc Camp": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:59:40.340000Z",
+        "acquired": "2025-12-26T13:27:18.750000Z",
         "location": {
             "start": [
                 -1800,
@@ -4861,11 +4861,11 @@
     },
     "Loamsprout Orc Camp": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:15:51.086000Z",
+        "acquired": "2025-12-26T14:25:27.541000Z",
         "location": {
             "start": [
                 -1800,
@@ -4879,11 +4879,11 @@
     },
     "Entrance to Bucie": {
         "guild": {
-            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-            "name": "Paladins United",
-            "prefix": "PUN"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T04:14:38.891000Z",
+        "acquired": "2025-12-26T13:33:51.507000Z",
         "location": {
             "start": [
                 -1553,
@@ -4919,7 +4919,7 @@
             "name": "Avicia",
             "prefix": "AVO"
         },
-        "acquired": "2025-12-25T23:45:31.516000Z",
+        "acquired": "2025-12-26T14:35:38.354000Z",
         "location": {
             "start": [
                 -1387,
@@ -4933,11 +4933,11 @@
     },
     "Efilim": {
         "guild": {
-            "uuid": "194cfad7-4cca-4fde-8760-e42760f9c3d9",
-            "name": "Empire of Sindria",
-            "prefix": "ESI"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T21:32:24.801000Z",
+        "acquired": "2025-12-26T08:31:09.957000Z",
         "location": {
             "start": [
                 -1134,
@@ -4951,11 +4951,11 @@
     },
     "Efilim Crossroads": {
         "guild": {
-            "uuid": "194cfad7-4cca-4fde-8760-e42760f9c3d9",
-            "name": "Empire of Sindria",
-            "prefix": "ESI"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T21:30:38.741000Z",
+        "acquired": "2025-12-26T08:35:03.386000Z",
         "location": {
             "start": [
                 -1030,
@@ -4969,11 +4969,11 @@
     },
     "Minotaur Barbecue": {
         "guild": {
-            "uuid": "194cfad7-4cca-4fde-8760-e42760f9c3d9",
-            "name": "Empire of Sindria",
-            "prefix": "ESI"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T21:31:30.133000Z",
+        "acquired": "2025-12-26T08:29:22.708000Z",
         "location": {
             "start": [
                 -1014,
@@ -4987,11 +4987,11 @@
     },
     "Path to the Forgery": {
         "guild": {
-            "uuid": "194cfad7-4cca-4fde-8760-e42760f9c3d9",
-            "name": "Empire of Sindria",
-            "prefix": "ESI"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T21:29:30.388000Z",
+        "acquired": "2025-12-26T08:24:36.313000Z",
         "location": {
             "start": [
                 -949,
@@ -5005,11 +5005,11 @@
     },
     "Guardian of the Forest": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-25T14:17:39.825000Z",
+        "acquired": "2025-12-26T14:44:00.061000Z",
         "location": {
             "start": [
                 -1134,
@@ -5027,7 +5027,7 @@
             "name": "Avicia",
             "prefix": "AVO"
         },
-        "acquired": "2025-12-26T01:01:29.644000Z",
+        "acquired": "2025-12-26T14:40:47.447000Z",
         "location": {
             "start": [
                 -1040,
@@ -5045,7 +5045,7 @@
             "name": "Avicia",
             "prefix": "AVO"
         },
-        "acquired": "2025-12-26T01:03:01.954000Z",
+        "acquired": "2025-12-26T14:47:20.818000Z",
         "location": {
             "start": [
                 -1134,
@@ -5059,11 +5059,11 @@
     },
     "Aldorei Valley Outskirts": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-26T01:16:59.220000Z",
+        "acquired": "2025-12-26T09:25:31.330000Z",
         "location": {
             "start": [
                 -736,
@@ -5077,11 +5077,11 @@
     },
     "Myconid Descent": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T14:30:56.226000Z",
+        "acquired": "2025-12-26T08:15:41.270000Z",
         "location": {
             "start": [
                 -646,
@@ -5095,11 +5095,11 @@
     },
     "Chasm Chokepoint": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T13:58:31.732000Z",
+        "acquired": "2025-12-26T08:18:35.770000Z",
         "location": {
             "start": [
                 -733,
@@ -5113,11 +5113,11 @@
     },
     "Luxuriant Pond": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-26T01:11:57.682000Z",
+        "acquired": "2025-12-26T09:22:31.075000Z",
         "location": {
             "start": [
                 -1014,
@@ -5131,11 +5131,11 @@
     },
     "Dodegar's Forge": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-25T22:03:33.468000Z",
+        "acquired": "2025-12-26T14:56:05.473000Z",
         "location": {
             "start": [
                 -929,
@@ -5149,11 +5149,11 @@
     },
     "Unicorn Trail": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-25T21:53:54.295000Z",
+        "acquired": "2025-12-26T14:50:44.034000Z",
         "location": {
             "start": [
                 -1014,
@@ -5167,11 +5167,11 @@
     },
     "The Forgery": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T22:06:58.722000Z",
+        "acquired": "2025-12-26T08:23:10.050000Z",
         "location": {
             "start": [
                 -926,
@@ -5185,11 +5185,11 @@
     },
     "Collapsed Bridge": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-25T14:12:45.929000Z",
+        "acquired": "2025-12-26T14:51:51.276000Z",
         "location": {
             "start": [
                 -834,
@@ -5203,11 +5203,11 @@
     },
     "Mycelial Expanse": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-25T14:25:53.701000Z",
+        "acquired": "2025-12-26T14:54:54.661000Z",
         "location": {
             "start": [
                 -926,
@@ -5221,11 +5221,11 @@
     },
     "The Shiar": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-26T01:14:00.660000Z",
+        "acquired": "2025-12-26T09:24:14.491000Z",
         "location": {
             "start": [
                 -926,
@@ -5239,11 +5239,11 @@
     },
     "Chasm Overlook": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T14:09:34.916000Z",
+        "acquired": "2025-12-26T08:19:59.314000Z",
         "location": {
             "start": [
                 -738,
@@ -5257,11 +5257,11 @@
     },
     "Enchanted River": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-26T03:51:31.819000Z",
+        "acquired": "2025-12-26T08:36:51.904000Z",
         "location": {
             "start": [
                 -942,
@@ -5329,11 +5329,11 @@
     },
     "Overtaken Outpost": {
         "guild": {
-            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
-            "name": "Avicia",
-            "prefix": "AVO"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-25T23:01:11.879000Z",
+        "acquired": "2025-12-26T16:03:59.932000Z",
         "location": {
             "start": [
                 -1452,
@@ -5347,11 +5347,11 @@
     },
     "Mangled Lake": {
         "guild": {
-            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-            "name": "Aequitas",
-            "prefix": "Aeq"
+            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+            "name": "Sequoia",
+            "prefix": "SEQ"
         },
-        "acquired": "2025-12-26T04:11:29.340000Z",
+        "acquired": "2025-12-26T16:01:43.204000Z",
         "location": {
             "start": [
                 -1460,
@@ -5365,11 +5365,11 @@
     },
     "Caritat Mansion": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:54:59.360000Z",
+        "acquired": "2025-12-26T12:46:54.211000Z",
         "location": {
             "start": [
                 -1237,
@@ -5383,11 +5383,11 @@
     },
     "Lexdale Penitentiary": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:24:54.669000Z",
+        "acquired": "2025-12-26T16:06:29.946000Z",
         "location": {
             "start": [
                 -873,
@@ -5401,11 +5401,11 @@
     },
     "Path to the Penitentiary": {
         "guild": {
-            "uuid": "1fabae7c-36db-4441-8ce1-f50a8c9442db",
-            "name": "Bruhters",
-            "prefix": "feto"
+            "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+            "name": "Avicia",
+            "prefix": "AVO"
         },
-        "acquired": "2025-12-26T03:21:10.807000Z",
+        "acquired": "2025-12-26T16:03:26.366000Z",
         "location": {
             "start": [
                 -771,
@@ -5419,11 +5419,11 @@
     },
     "Faltach Manor": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-26T03:50:37.352000Z",
+        "acquired": "2025-12-26T08:27:39.776000Z",
         "location": {
             "start": [
                 -896,
@@ -5437,11 +5437,11 @@
     },
     "Viscera Pits": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T08:47:49.226000Z",
+        "acquired": "2025-12-26T08:14:26.668000Z",
         "location": {
             "start": [
                 -659,
@@ -5455,11 +5455,11 @@
     },
     "Talor Cemetery": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "3a1782a7-21ac-4825-a315-7e64c3894f30",
+            "name": "Cow",
+            "prefix": "Cow"
         },
-        "acquired": "2025-12-25T13:08:09.011000Z",
+        "acquired": "2025-12-26T15:19:46.326000Z",
         "location": {
             "start": [
                 -648,
@@ -5473,11 +5473,11 @@
     },
     "Old Crossroads": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T04:46:10.340000Z",
+        "acquired": "2025-12-26T07:58:18.640000Z",
         "location": {
             "start": [
                 -648,
@@ -5491,11 +5491,11 @@
     },
     "Entrance to Cinfras": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "3a1782a7-21ac-4825-a315-7e64c3894f30",
+            "name": "Cow",
+            "prefix": "Cow"
         },
-        "acquired": "2025-12-25T21:49:28.367000Z",
+        "acquired": "2025-12-26T16:12:37.707000Z",
         "location": {
             "start": [
                 -555,
@@ -5509,11 +5509,11 @@
     },
     "Weird Clearing": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "3a1782a7-21ac-4825-a315-7e64c3894f30",
+            "name": "Cow",
+            "prefix": "Cow"
         },
-        "acquired": "2025-12-25T22:50:15.723000Z",
+        "acquired": "2025-12-26T15:08:13.332000Z",
         "location": {
             "start": [
                 -288,
@@ -5527,11 +5527,11 @@
     },
     "Big Mushroom Cave": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T22:30:41.946000Z",
+        "acquired": "2025-12-26T08:54:40.921000Z",
         "location": {
             "start": [
                 -130,
@@ -5545,11 +5545,11 @@
     },
     "Paper Trail": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T22:39:52.746000Z",
+        "acquired": "2025-12-26T08:57:44.002000Z",
         "location": {
             "start": [
                 3,
@@ -5563,11 +5563,11 @@
     },
     "Silverbull Headquarters": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T15:09:48.398000Z",
+        "acquired": "2025-12-26T07:58:41.776000Z",
         "location": {
             "start": [
                 -127,
@@ -5581,11 +5581,11 @@
     },
     "Celestial Impact": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T15:33:31.004000Z",
+        "acquired": "2025-12-26T07:57:10.185000Z",
         "location": {
             "start": [
                 -127,
@@ -5599,11 +5599,11 @@
     },
     "Gylia Fisherman Camp": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-26T01:30:44.496000Z",
+        "acquired": "2025-12-26T14:03:06.980000Z",
         "location": {
             "start": [
                 -127,
@@ -5617,11 +5617,11 @@
     },
     "Cosmic Fissures": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-26T01:32:05.919000Z",
+        "acquired": "2025-12-26T13:51:44.749000Z",
         "location": {
             "start": [
                 30,
@@ -5635,11 +5635,11 @@
     },
     "Gylia Research Cabin": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-26T03:44:57.361000Z",
+        "acquired": "2025-12-26T13:59:47.775000Z",
         "location": {
             "start": [
                 -130,
@@ -5653,11 +5653,11 @@
     },
     "Gylia Lakehouse": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T22:23:25.902000Z",
+        "acquired": "2025-12-26T13:56:04.907000Z",
         "location": {
             "start": [
                 -218,
@@ -5671,11 +5671,11 @@
     },
     "Gylia Watchtower": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "3a1782a7-21ac-4825-a315-7e64c3894f30",
+            "name": "Cow",
+            "prefix": "Cow"
         },
-        "acquired": "2025-12-25T17:37:17.833000Z",
+        "acquired": "2025-12-26T12:05:54.539000Z",
         "location": {
             "start": [
                 -128,
@@ -5689,11 +5689,11 @@
     },
     "Aldorei Springs": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T16:11:50.812000Z",
+        "acquired": "2025-12-26T13:20:47.097000Z",
         "location": {
             "start": [
                 -714,
@@ -5707,11 +5707,11 @@
     },
     "Outer Aldorei Town": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T16:15:16.246000Z",
+        "acquired": "2025-12-26T13:35:24.507000Z",
         "location": {
             "start": [
                 -322,
@@ -5725,11 +5725,11 @@
     },
     "Aldorei Valley": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T16:18:35.806000Z",
+        "acquired": "2025-12-26T13:16:23.904000Z",
         "location": {
             "start": [
                 -557,
@@ -5743,11 +5743,11 @@
     },
     "Aldorei River": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T14:49:53.142000Z",
+        "acquired": "2025-12-26T08:03:24.768000Z",
         "location": {
             "start": [
                 -437,
@@ -5761,11 +5761,11 @@
     },
     "Aldorei Cliffside Waterfalls": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T14:53:07.281000Z",
+        "acquired": "2025-12-26T13:39:40.290000Z",
         "location": {
             "start": [
                 -237,
@@ -5779,11 +5779,11 @@
     },
     "Waterfall Cave": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T22:38:02.918000Z",
+        "acquired": "2025-12-26T08:57:00.438000Z",
         "location": {
             "start": [
                 -127,
@@ -5869,11 +5869,11 @@
     },
     "Path to Thanos": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-26T02:12:26.303000Z",
+        "acquired": "2025-12-26T13:47:21.004000Z",
         "location": {
             "start": [
                 98,
@@ -5887,11 +5887,11 @@
     },
     "Kitrios Armory": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T04:37:59.251000Z",
+        "acquired": "2025-12-26T14:36:43.687000Z",
         "location": {
             "start": [
                 51,
@@ -5905,11 +5905,11 @@
     },
     "Kitrios Barracks": {
         "guild": {
-            "uuid": "1b46f82e-8cd7-4a80-9c51-7fe16958c905",
-            "name": "Canard",
-            "prefix": "Ducc"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-26T03:49:50.054000Z",
+        "acquired": "2025-12-26T14:37:45.716000Z",
         "location": {
             "start": [
                 104,
@@ -5923,11 +5923,11 @@
     },
     "Colourful Mountaintop": {
         "guild": {
-            "uuid": "1b46f82e-8cd7-4a80-9c51-7fe16958c905",
-            "name": "Canard",
-            "prefix": "Ducc"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-26T04:17:30.727000Z",
+        "acquired": "2025-12-26T14:47:21.537000Z",
         "location": {
             "start": [
                 168,
@@ -5941,11 +5941,11 @@
     },
     "Upper Thanos": {
         "guild": {
-            "uuid": "bb5dacca-9ed4-4018-8b17-70a931ee6ddb",
-            "name": "The Gambling Addicts",
-            "prefix": "TGAS"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-26T04:04:59.033000Z",
+        "acquired": "2025-12-26T07:46:04.192000Z",
         "location": {
             "start": [
                 260,
@@ -6211,11 +6211,11 @@
     },
     "Thanos Underpass": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T15:55:26.816000Z",
+        "acquired": "2025-12-26T07:49:18.395000Z",
         "location": {
             "start": [
                 250,
@@ -6413,7 +6413,7 @@
             "name": "JFZN JAPAN",
             "prefix": "JFZN"
         },
-        "acquired": "2025-12-25T22:53:42.399000Z",
+        "acquired": "2025-12-26T08:58:15.717000Z",
         "location": {
             "start": [
                 340,
@@ -6503,7 +6503,7 @@
             "name": "Empire of TKW",
             "prefix": "ETKW"
         },
-        "acquired": "2025-12-24T00:07:43.530000Z",
+        "acquired": "2025-12-26T04:53:14.454000Z",
         "location": {
             "start": [
                 445,
@@ -6679,11 +6679,11 @@
     },
     "Dogun Ritual Site": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T09:17:05.453000Z",
+        "acquired": "2025-12-26T16:08:16.785000Z",
         "location": {
             "start": [
                 1535,
@@ -6697,11 +6697,11 @@
     },
     "Freezing Heights": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-22T08:43:20.413000Z",
+        "acquired": "2025-12-26T16:09:13.870000Z",
         "location": {
             "start": [
                 1531,
@@ -6715,11 +6715,11 @@
     },
     "Lava Lakes": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-22T08:30:40.277000Z",
+        "acquired": "2025-12-26T16:11:15.869000Z",
         "location": {
             "start": [
                 1230,
@@ -6733,11 +6733,11 @@
     },
     "Dragonbone Graveyard": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-22T08:42:02.795000Z",
+        "acquired": "2025-12-26T16:10:03.250000Z",
         "location": {
             "start": [
                 1531,
@@ -6751,11 +6751,11 @@
     },
     "Entamis Village": {
         "guild": {
-            "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-            "name": "Adventure of the bear",
-            "prefix": "Bav"
+            "uuid": "de082d94-1835-49fd-a192-a38dc5aad374",
+            "name": "JOHNMILLER",
+            "prefix": "JONM"
         },
-        "acquired": "2025-12-26T02:36:35.432000Z",
+        "acquired": "2025-12-26T06:06:57.567000Z",
         "location": {
             "start": [
                 -737,
@@ -6769,11 +6769,11 @@
     },
     "Fountain of Youth": {
         "guild": {
-            "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-            "name": "Adventure of the bear",
-            "prefix": "Bav"
+            "uuid": "de082d94-1835-49fd-a192-a38dc5aad374",
+            "name": "JOHNMILLER",
+            "prefix": "JONM"
         },
-        "acquired": "2025-12-26T02:37:45.496000Z",
+        "acquired": "2025-12-26T06:05:44.813000Z",
         "location": {
             "start": [
                 -744,
@@ -6787,11 +6787,11 @@
     },
     "Delnar Manor": {
         "guild": {
-            "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-            "name": "Adventure of the bear",
-            "prefix": "Bav"
+            "uuid": "de082d94-1835-49fd-a192-a38dc5aad374",
+            "name": "JOHNMILLER",
+            "prefix": "JONM"
         },
-        "acquired": "2025-12-26T02:41:05.028000Z",
+        "acquired": "2025-12-26T06:04:23.630000Z",
         "location": {
             "start": [
                 -970,
@@ -6805,11 +6805,11 @@
     },
     "Corkus City Crossroads": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T21:45:56.355000Z",
+        "acquired": "2025-12-26T16:12:46.351000Z",
         "location": {
             "start": [
                 -1559,
@@ -6823,11 +6823,11 @@
     },
     "Road to Mine": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
+            "name": "New Moon",
+            "prefix": "NewM"
         },
-        "acquired": "2025-12-25T19:39:00.472000Z",
+        "acquired": "2025-12-26T16:08:58.941000Z",
         "location": {
             "start": [
                 -1467,
@@ -6841,11 +6841,11 @@
     },
     "Industrial Clearing": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:14:18.444000Z",
+        "acquired": "2025-12-26T04:50:28.657000Z",
         "location": {
             "start": [
                 -1683,
@@ -6859,11 +6859,11 @@
     },
     "Corkus Forest": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
+            "name": "New Moon",
+            "prefix": "NewM"
         },
-        "acquired": "2025-12-25T20:12:48.231000Z",
+        "acquired": "2025-12-26T16:07:11.529000Z",
         "location": {
             "start": [
                 -1681,
@@ -6877,11 +6877,11 @@
     },
     "Picnic Pond": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:11:23.538000Z",
+        "acquired": "2025-12-26T04:33:50.419000Z",
         "location": {
             "start": [
                 -1888,
@@ -6895,11 +6895,11 @@
     },
     "Avos Territory": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:10:09.081000Z",
+        "acquired": "2025-12-26T04:35:44.405000Z",
         "location": {
             "start": [
                 -1888,
@@ -6913,11 +6913,11 @@
     },
     "Overrun Docks": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:27:11.144000Z",
+        "acquired": "2025-12-26T05:28:22.922000Z",
         "location": {
             "start": [
                 -1891,
@@ -6931,11 +6931,11 @@
     },
     "Retrofitted Manufactory": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:05:48.426000Z",
+        "acquired": "2025-12-26T04:32:00.316000Z",
         "location": {
             "start": [
                 -1503,
@@ -6949,11 +6949,11 @@
     },
     "Relos": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:18:26.734000Z",
+        "acquired": "2025-12-26T13:39:25.058000Z",
         "location": {
             "start": [
                 -1680,
@@ -6967,11 +6967,11 @@
     },
     "Founder's Statue": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T19:49:37.384000Z",
+        "acquired": "2025-12-26T04:43:03.989000Z",
         "location": {
             "start": [
                 -1322,
@@ -6985,11 +6985,11 @@
     },
     "Path to Ahmsord": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T19:11:01.307000Z",
+        "acquired": "2025-12-26T09:45:50.865000Z",
         "location": {
             "start": [
                 779,
@@ -7003,11 +7003,11 @@
     },
     "Aerial Descent": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T19:13:00.480000Z",
+        "acquired": "2025-12-26T04:20:41.016000Z",
         "location": {
             "start": [
                 885,
@@ -7021,11 +7021,11 @@
     },
     "Raiders' Stronghold": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T22:43:23.956000Z",
+        "acquired": "2025-12-26T09:37:26.632000Z",
         "location": {
             "start": [
                 1380,
@@ -7039,11 +7039,11 @@
     },
     "Raiders' Airbase": {
         "guild": {
-            "uuid": "7274da55-ded3-40a5-9cdf-4aa4a08f5345",
-            "name": "New Moon",
-            "prefix": "NewM"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-25T18:56:52.677000Z",
+        "acquired": "2025-12-26T09:38:41.532000Z",
         "location": {
             "start": [
                 1558,
@@ -7057,11 +7057,11 @@
     },
     "Lighthouse Lookout": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:21:11.315000Z",
+        "acquired": "2025-12-26T05:01:28.399000Z",
         "location": {
             "start": [
                 -1633,
@@ -7075,11 +7075,11 @@
     },
     "Felroc Fields": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+            "name": "Aequitas",
+            "prefix": "Aeq"
         },
-        "acquired": "2025-12-25T14:51:29.294000Z",
+        "acquired": "2025-12-26T08:01:52.492000Z",
         "location": {
             "start": [
                 -337,
@@ -7093,11 +7093,11 @@
     },
     "Balloon Airbase": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:19:23.576000Z",
+        "acquired": "2025-12-26T13:40:59.408000Z",
         "location": {
             "start": [
                 -1633,
@@ -7111,11 +7111,11 @@
     },
     "Silent Road": {
         "guild": {
-            "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-            "name": "Sequoia",
-            "prefix": "SEQ"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T22:54:14.379000Z",
+        "acquired": "2025-12-26T12:07:50.486000Z",
         "location": {
             "start": [
                 540,
@@ -7129,11 +7129,11 @@
     },
     "Broken Road": {
         "guild": {
-            "uuid": "4e419ae5-da78-43f0-96f0-6c6b04aa884e",
-            "name": "Horthy Miklos Hadserege",
-            "prefix": "HMH"
+            "uuid": "975ee0ad-6e50-4760-80c3-dfd3b162fe1e",
+            "name": "NewEridu",
+            "prefix": "SSNE"
         },
-        "acquired": "2025-12-25T20:35:05.180000Z",
+        "acquired": "2025-12-26T12:26:48.847000Z",
         "location": {
             "start": [
                 686,
@@ -7165,11 +7165,11 @@
     },
     "Monte's Village": {
         "guild": {
-            "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-            "name": "Adventure of the bear",
-            "prefix": "Bav"
+            "uuid": "de082d94-1835-49fd-a192-a38dc5aad374",
+            "name": "JOHNMILLER",
+            "prefix": "JONM"
         },
-        "acquired": "2025-12-26T02:32:57.279000Z",
+        "acquired": "2025-12-26T05:46:03.786000Z",
         "location": {
             "start": [
                 -515,
@@ -7183,11 +7183,11 @@
     },
     "Durum Isles Barn": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T21:32:25.456000Z",
+        "acquired": "2025-12-26T09:03:34.405000Z",
         "location": {
             "start": [
                 405,
@@ -7201,11 +7201,11 @@
     },
     "Volcanic Isles": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+            "name": "Titans Valor",
+            "prefix": "ANO"
         },
-        "acquired": "2025-12-25T20:49:09.027000Z",
+        "acquired": "2025-12-26T09:18:06.216000Z",
         "location": {
             "start": [
                 -929,
@@ -7219,11 +7219,11 @@
     },
     "Troll's Challenge": {
         "guild": {
-            "uuid": "75ba3bb7-d220-42a8-abd5-abad0b6a7def",
-            "name": "Tea The Party",
-            "prefix": "TTPT"
+            "uuid": "f6e6ce24-c818-4ccc-8b8e-94f45fe1eb69",
+            "name": "Black Fangs",
+            "prefix": "BFS"
         },
-        "acquired": "2025-12-25T15:50:46.628000Z",
+        "acquired": "2025-12-26T14:48:30.499000Z",
         "location": {
             "start": [
                 244,
@@ -7273,11 +7273,11 @@
     },
     "Pyroclastic Flow": {
         "guild": {
-            "uuid": "74c65ea5-9095-4709-bacd-be336b6b84fd",
-            "name": "Empire of TKW",
-            "prefix": "ETKW"
+            "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+            "name": "Paladins United",
+            "prefix": "PUN"
         },
-        "acquired": "2025-12-22T08:33:29.345000Z",
+        "acquired": "2025-12-26T16:11:04.175000Z",
         "location": {
             "start": [
                 1233,
@@ -7291,11 +7291,11 @@
     },
     "Ava's Workshop": {
         "guild": {
-            "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-            "name": "The Aquarium",
-            "prefix": "TAq"
+            "uuid": "705c25a5-7fb3-4977-be26-099e43798a4c",
+            "name": "Chiefs Of Corkus",
+            "prefix": "HOC"
         },
-        "acquired": "2025-12-25T20:08:46.243000Z",
+        "acquired": "2025-12-26T05:25:29.592000Z",
         "location": {
             "start": [
                 -1681,
