@@ -21,6 +21,7 @@ async def on_ready():
 
 async def main():
     await bot.load_extension("guilds.guild_territory")
+    await bot.load_extension("guilds.guild_list")
     await bot.start(TOKEN)
 
 if __name__ == "__main__":
