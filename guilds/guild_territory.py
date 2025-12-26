@@ -48,24 +48,37 @@ class TerritoryTracker(commands.Cog):
                 current_territories = {}
                 #fills in current_territories
                 for territory_name, data in territory_data.items():
-                    guild_data = data.get("guild")
+                    guild_data = data.get("guild", {})
                     guild_name = guild_data.get("name")
                     guild_acquired_time = data.get("acquired")
-                    current_territories[territory_name] = guild_name
+                    if guild_acquired_time:
+                        try:
+                            # Wynncraft API format: "2024-01-15T10:30:00.000Z"
+                            acquired_time = datetime.fromisoformat(guild_acquired_time.replace("Z", "+00:00"))
+                        except Exception as e:
+                            print(e)
+                            acquired_time = now
+                    else:
+                        acquired_time = now
+                    current_territories[territory_name] = {
+                        "guild": guild_name,
+                        "acquired": acquired_time
+                    }
+                #First Run
+                
                 if not self.previous_territories:
-                    for territory_name, guild_name in current_territories.items():
-                        self.previous_territories[territory_name] = {
-                            "guild": guild_name,
-                            "acquired": guild_acquired_time
-                        }
+                    self.previous_territories = current_territories.copy()
                     print(f"Initialized {len(self.previous_territories)} territories.")
                     return
+                embeds_to_send = []
+                
                 # Compare current vs previous
                 for territory, new_owner in current_territories.items():
-                    old_data = self.previous_territories.get(territory)
-                    old_owner = old_data.get("guild")
+                    old_territory = self.previous_territories.get(territory)
+                    old_owner = old_territory.get("guild")
+                    new_owner = new_owner["guild"]
                     if old_owner and new_owner != old_owner:
-                        acquired_time = old_data.get("acquired")
+                        acquired_time = old_territory.get("acquired", now)
                         held_duration = format_duration(now - acquired_time)
                         new_owner_count = list(current_territories.values()).count(new_owner)
                         old_owner_count = list(current_territories.values()).count(old_owner)
@@ -92,23 +105,24 @@ class TerritoryTracker(commands.Cog):
                             inline=True
                         )
                         embed.set_footer(text="Wynncraft Territory Tracker")
-                        channel = self.bot.get_channel(CHANNEL_ID)
-                        if channel:
-                            await channel.send(embed=embed)
-                            print(f"Alerted: {territory} -> {new_owner}")
+                        embeds_to_send.append(embed)
                         # Update this territory with new owner and reset timer
                         self.previous_territories[territory] = {
                             "guild": new_owner,
                             "acquired": now
                         }
+                #only writes in a discord channel territory-alerts
+                if embeds_to_send:
+                    for guild in self.bot.guilds:
+                        channel = discord.utils.get(guild.text_channels, name="territory-alerts")
+                        if channel:
+                            for embed in embeds_to_send:
+                                await channel.send(embed=embed)
+                                print(f"Alerted: {territory} -> {new_owner}")
                 # Updates our territories
-                for territory, guild_name in current_territories.items():
-                    if territory not in self.previous_territories:
-                        self.previous_territories[territory] = {
-                            "guild": guild_name,
-                            "acquired": now
-                        }
+                self.previous_territories = current_territories.copy()
 
+                
 
 async def setup(bot):
     await bot.add_cog(TerritoryTracker(bot))
