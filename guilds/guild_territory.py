@@ -26,6 +26,7 @@ class TerritoryTracker(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         self.previous_territories = {}
+
     
     def cog_unload(self):
         self.monitor_territories.cancel()
@@ -74,7 +75,7 @@ class TerritoryTracker(commands.Cog):
                     old_territory = self.previous_territories.get(territory)
                     old_owner = old_territory.get("guild")
                     new_owner = new_owner["guild"]
-                    if old_owner and new_owner != old_owner:
+                    if new_owner != old_owner:
                         acquired_time = old_territory.get("acquired", now)
                         held_duration = format_duration(now - acquired_time)
                         new_owner_count = sum(1 for t in current_territories.values() if t["guild"] == new_owner)
@@ -102,7 +103,7 @@ class TerritoryTracker(commands.Cog):
                             inline=True
                         )
                         embed.set_footer(text="Wynncraft Territory Tracker")
-                        embeds_to_send.append(embed)
+                        embeds_to_send.append((embed, territory, new_owner))
                         # Update this territory with new owner and reset timer
                         self.previous_territories[territory] = {
                             "guild": new_owner,
@@ -113,9 +114,9 @@ class TerritoryTracker(commands.Cog):
                     for guild in self.bot.guilds:
                         channel = discord.utils.get(guild.text_channels, name="territory-alerts")
                         if channel:
-                            for embed in embeds_to_send:
+                            for embed, terr_name, owner in embeds_to_send:
                                 await channel.send(embed=embed)
-                                print(f"Alerted: {territory} -> {new_owner}")
+                                print(f"Alerted: {terr_name} -> {owner}")
                 # Updates our territories
                 self.previous_territories = current_territories.copy()
 
