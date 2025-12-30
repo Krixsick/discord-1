@@ -36,13 +36,12 @@ class TerritoryTracker(commands.Cog):
         if not self.monitor_territories.is_running():
             self.monitor_territories.start()
     
-    @tasks.loop(seconds=10)
+    @tasks.loop(seconds=60)
     async def monitor_territories(self):
         async with aiohttp.ClientSession() as session:
             async with session.get(API_URL) as response:
                 territory_data = await response.json()
-                with open("data.json", "w") as f:
-                    json.dump(territory_data, f, indent=4)
+
                 now = datetime.now(timezone.utc)
                 current_territories = {}
                 #fills in current_territories
@@ -70,7 +69,6 @@ class TerritoryTracker(commands.Cog):
                     print(f"Initialized {len(self.previous_territories)} territories.")
                     return
                 embeds_to_send = []
-                
                 # Compare current vs previous
                 for territory, new_owner in current_territories.items():
                     old_territory = self.previous_territories.get(territory)
