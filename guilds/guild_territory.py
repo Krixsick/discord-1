@@ -37,7 +37,7 @@ class TerritoryTracker(commands.Cog):
         if not self.monitor_territories.is_running():
             self.monitor_territories.start()
     
-    @tasks.loop(seconds=10)
+    @tasks.loop(seconds=30)
     async def monitor_territories(self):
         async with aiohttp.ClientSession() as session:
             async with session.get(API_URL) as response:
@@ -69,9 +69,6 @@ class TerritoryTracker(commands.Cog):
                     self.previous_territories = current_territories.copy()
                     print(f"Initialized {len(self.previous_territories)} territories.")
                     return
-                if "Detlas" in self.previous_territories:
-                    self.previous_territories["Detlas"]["guild"] = "FakeTestGuild"
-                    print("Injected fake change for testing")
                 embeds_to_send = []
                 print(f"Checking {len(current_territories)} territories for changes...")
                 # Compare current vs previous
@@ -118,14 +115,23 @@ class TerritoryTracker(commands.Cog):
                 print(f"Found {len(embeds_to_send)} changes this cycle")
                 #only writes in a discord channel territory-alerts
                 if embeds_to_send:
+                    print(f"Bot is in {len(self.bot.guilds)} guilds")
                     for guild in self.bot.guilds:
+                        print(f"Checking guild: {guild.name}")
                         channel = discord.utils.get(guild.text_channels, name="territory-alerts")
                         if channel:
                             for embed, terr_name, owner in embeds_to_send:
-                                await channel.send(embed=embed)
-                                print(f"Alerted: {terr_name} -> {owner}")
-                else:
-                    print(f"DEBUG: FAILED. 'territory-alerts' is NOT in the list above.")
+                                try:
+                                    await channel.send(embed=embed)
+                                    print(f"Alerted: {terr_name} -> {owner}")
+                                except discord.Forbidden:
+                                    print(f"No permission to send in {guild.name}")
+                                    break  # Skip remaining embeds for this server
+                                except Exception as e:
+                                    print(f"Error sending to {guild.name}: {e}")
+                                    break
+                        else:
+                            print(f"No 'territory-alerts' channel found in {guild.name}")
                 # Updates our territories
                 self.previous_territories = current_territories.copy()
 
