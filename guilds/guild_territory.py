@@ -115,6 +115,7 @@ class TerritoryTracker(commands.Cog):
                             "guild": new_owner,
                             "acquired": now
                         }
+                print(f"Found {len(embeds_to_send)} changes this cycle")
                 #only writes in a discord channel territory-alerts
                 if embeds_to_send:
                     for guild in self.bot.guilds:
