@@ -69,7 +69,11 @@ class TerritoryTracker(commands.Cog):
                     self.previous_territories = current_territories.copy()
                     print(f"Initialized {len(self.previous_territories)} territories.")
                     return
+                if "Detlas" in self.previous_territories:
+                    self.previous_territories["Detlas"]["guild"] = "FakeTestGuild"
+                    print("Injected fake change for testing")
                 embeds_to_send = []
+                print(f"Checking {len(current_territories)} territories for changes...")
                 # Compare current vs previous
                 for territory, new_owner in current_territories.items():
                     old_territory = self.previous_territories.get(territory)
