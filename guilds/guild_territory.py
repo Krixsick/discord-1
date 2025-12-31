@@ -77,6 +77,8 @@ class TerritoryTracker(commands.Cog):
                 # Compare current vs previous
                 for territory, new_owner in current_territories.items():
                     old_territory = self.previous_territories.get(territory)
+                    if not old_territory:
+                        continue
                     old_owner = old_territory.get("guild")
                     new_owner = new_owner["guild"]
                     if new_owner != old_owner:
