@@ -124,6 +124,8 @@ class TerritoryTracker(commands.Cog):
                             for embed, terr_name, owner in embeds_to_send:
                                 await channel.send(embed=embed)
                                 print(f"Alerted: {terr_name} -> {owner}")
+                else:
+                    print(f"DEBUG: FAILED. 'territory-alerts' is NOT in the list above.")
                 # Updates our territories
                 self.previous_territories = current_territories.copy()
 
