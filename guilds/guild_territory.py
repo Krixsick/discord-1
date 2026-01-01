@@ -37,7 +37,7 @@ class TerritoryTracker(commands.Cog):
         if not self.monitor_territories.is_running():
             self.monitor_territories.start()
     
-    @tasks.loop(seconds=30)
+    @tasks.loop(seconds=60)
     async def monitor_territories(self):
         async with aiohttp.ClientSession() as session:
             async with session.get(API_URL) as response:
